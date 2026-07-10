@@ -416,6 +416,7 @@ A simple routine with cleanser, Vitamin C serum, lightweight moisturizer, sunscr
 <div style="background: linear-gradient(135deg, #fdf2f8 0%, #fce7f3 100%); padding: 25px; border-radius: 15px; border: 2px solid #ec4899;">
 Summer skincare is about maintaining healthy skin through consistent care, proper hydration, and daily sun protection. Choosing products that suit your skin type and following a simple routine can help reduce sun damage, control excess oil, and maintain a naturally radiant complexion throughout the season.
 
+**Remember:** Consistency is key. A proper summer skincare routine will help you maintain healthy, radiant skin all season long. ✨
 </div>
 
 ---
