@@ -1,403 +1,586 @@
-# ✨ 10 Must-Have Summer Skincare Products for a Radiant Glow ✨
+# 10 Must-Have Summer Skincare Products for Healthy & Glowing Skin
 
-> *Your ultimate guide to maintaining healthy, glowing skin throughout the summer months.*
+> Your complete guide to building an effective summer skincare routine. Learn which skincare products truly matter, how to prevent sun damage, reduce excess oil, maintain hydration, and keep your skin healthy throughout the warmer months.
 
 ---
 
 <div align="center">
 
-**🌟 Summer Skin Essentials 🌟**
-
-*Because your skin deserves to shine as bright as the summer sun.*
+<img src="images/1_banner.avif" alt="Summer Skincare Essentials" width="100%" style="border-radius:14px;"/>
 
 </div>
 
 ---
 
-## 📋 Table of Contents
+## Quick Summary
 
-<div style="background: linear-gradient(135deg, #fdf2f8 0%, #fce7f3 100%); padding: 20px; border-radius: 12px; border-left: 4px solid #ec4899;">
+<div style="background:#FAF8F5;padding:24px;border:1px solid #E8E2DA;border-radius:14px;">
 
-- [Why Summer Skincare Matters](#why-summer-skincare-matters) 💫
-- [Understanding Summer Skin Challenges](#understanding-summer-skin-challenges) 🎯
-- [Expert Insights](#expert-insights) 💬
-- [10 Essential Summer Skincare Products](#10-essential-summer-skincare-products) 💄
-- [Application Masterclass](#application-masterclass) 🎨
-- [Pro Tips & Techniques](#pro-tips--techniques) 🔥
-- [Final Thoughts](#final-thoughts) ✨
+Summer heat, humidity and UV exposure can quickly lead to dehydration, excess oil, clogged pores and pigmentation. Choosing the right skincare products helps maintain a healthy skin barrier while protecting your complexion from environmental damage.
 
-</div>
+In this guide you'll discover:
 
----
+- The 10 skincare products worth adding to your summer routine
+- How each product benefits different skin types
+- Dermatologist-backed skincare recommendations
+- A simple morning and evening routine
+- Expert tips for maintaining healthy skin throughout summer
 
-## 💫 Why Summer Skincare Matters
-
-<div style="background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%); padding: 25px; border-radius: 15px; border: 2px solid #f59e0b;">
-
-Summer brings unique challenges that require a specialized approach to skincare. The combination of increased sun exposure, higher humidity, and outdoor activities can wreak havoc on your skin if not properly managed.
-
-**The summer skincare difference:**
-- ✨ Protection against UV damage and premature aging
-- ✨ Hydration balance in hot, humid conditions
-- ✨ Prevention of breakouts from sweat and oil
-- ✨ Maintenance of skin barrier function
-
-Whether you're spending days at the beach or just running errands, your skin needs extra care during these warmer months.
+Whether your skin is oily, dry, combination or sensitive, these essentials can help you achieve healthier, brighter and more comfortable skin all season.
 
 </div>
 
 ---
 
-## 🎯 Understanding Summer Skin Challenges
+## Table of Contents
 
-<div style="text-align: center; margin: 30px 0;">
+<div style="background:#FFFFFF;padding:22px;border:1px solid #E8E2DA;border-radius:14px;">
 
-*Understanding your skin's summer needs is the first step to maintaining a healthy glow*
-
-</div>
-
-Summer presents unique challenges that require specific solutions:
-
-### 🎯 Key Summer Skin Issues
-
-<div style="background: linear-gradient(135deg, #e0e7ff 0%, #c7d2fe 100%); padding: 20px; border-radius: 12px; border-left: 4px solid #6366f1;">
-
-| Challenge | Impact on Skin | Solution |
-|-----------|----------------|----------|
-| **Increased UV Exposure** | Premature aging, sun damage, hyperpigmentation | Broad-spectrum sunscreen, antioxidants |
-| **Higher Humidity** | Excess oil production, clogged pores | Lightweight, oil-free products |
-| **Sweat & Heat** | Dehydration, irritation, breakouts | Hydrating toners, gentle cleansing |
-| **Air Conditioning** | Dryness, barrier damage | Moisturizing products, barrier repair |
-| **Chlorine/Salt Water** | Dryness, irritation | Protective barriers, post-swim care |
+- [Why Summer Skincare Matters](#why-summer-skincare-matters)
+- [Summer Skincare Essentials at a Glance](#summer-skincare-essentials-at-a-glance)
+- [Common Summer Skin Concerns](#common-summer-skin-concerns)
+- [Expert Dermatologist Advice](#expert-insights)
+- [10 Essential Summer Skincare Products](#10-essential-summer-skincare-products)
+- [Step-by-Step Summer Skincare Routine](#step-by-step-summer-skincare-routine)
+- [Professional Summer Skincare Tips](#professional-summer-skincare-tips)
+- [Frequently Asked Questions](#frequently-asked-questions)
+- [Key Takeaways](#key-takeaways)
+- [Final Thoughts](#conclusion)
 
 </div>
 
 ---
 
-## 💬 Expert Insights
+## Why Summer Skincare Matters
 
-<div style="background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%); padding: 25px; border-radius: 15px; border: 2px solid #22c55e;">
+<div style="background:#FAF8F5;padding:28px;border:1px solid #E8E2DA;border-radius:14px;">
 
-We consulted **Dr. Eleanor Vance**, board-certified dermatologist and summer skincare specialist, for her expert advice:
+Summer places extra stress on your skin. Increased UV exposure, higher temperatures, humidity and pollution can weaken the skin barrier, trigger breakouts and accelerate visible signs of ageing.
 
-### 💬 Dr. Vance's Summer Skincare Rules
+A well-balanced skincare routine helps your skin:
 
-<div style="background: white; padding: 20px; border-radius: 10px; margin: 15px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+- Protect itself against harmful UVA and UVB rays
+- Maintain hydration despite heat and sweating
+- Reduce excess oil and clogged pores
+- Minimise irritation and redness
+- Support long-term skin health
 
-> **"A broad-spectrum sunscreen with an SPF of 30 or higher is non-negotiable. It protects against both UVA (aging) and UVB (burning) rays."** 🌸
-
-</div>
-
-<div style="background: white; padding: 20px; border-radius: 10px; margin: 15px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-
-> **"Switch to lighter formulations in summer. Heavy creams can trap heat and sweat, leading to breakouts."** ✨
-
-</div>
-
-<div style="background: white; padding: 20px; border-radius: 10px; margin: 15px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-
-> **"Antioxidants like Vitamin C are your skin's best defense against environmental damage. Apply them before sunscreen for maximum protection."** 💎
-
-</div>
-
-<div style="background: white; padding: 20px; border-radius: 10px; margin: 15px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-
-> **"Hydration is key, both inside and out. Drink water and use hydrating products to maintain your skin's moisture barrier."** 🌟
-
-</div>
+Rather than adding more products, focus on using products that work together to protect, hydrate and strengthen your skin every day.
 
 </div>
 
 ---
 
-## 💄 10 Essential Summer Skincare Products
+## Summer Skincare Essentials at a Glance
 
-<div style="background: linear-gradient(135deg, #fef7ff 0%, #f3e8ff 100%); padding: 25px; border-radius: 15px; border: 2px solid #a855f7;">
+<div style="background:#FFFFFF;padding:24px;border:1px solid #E8E2DA;border-radius:14px;">
 
-### 1. 🌞 Broad-Spectrum Sunscreen
-
-<div style="background: white; padding: 20px; border-radius: 10px; margin: 15px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-
-**Best for:** UV protection, preventing premature aging, skin cancer prevention
-
-**Key Features:**
-- **SPF 30+** for adequate protection
-- **Broad-spectrum** coverage (UVA + UVB)
-- **Water-resistant** formula for summer activities
-- **Lightweight, non-greasy** texture
-
-**Why it's essential:** Sunscreen is your skin's first line of defense against UV damage, which is the leading cause of premature aging and skin cancer.
-
-</div>
-
-### 2. 💧 Lightweight Moisturizer
-
-<div style="background: linear-gradient(135deg, #fef2f2 0%, #fee2e2 100%); padding: 20px; border-radius: 10px; margin: 15px 0; border-left: 4px solid #ef4444;">
-
-**Best for:** Hydration without heaviness, maintaining skin barrier
-
-**Key Ingredients:**
-- **Hyaluronic Acid:** Lightweight hydration
-- **Glycerin:** Moisture retention
-- **Ceramides:** Barrier repair
-- **Niacinamide:** Oil control
-
-**Pro Tip:** Apply to damp skin to lock in extra moisture ✨
+| Product | Primary Benefit | Recommended For |
+|----------|-----------------|-----------------|
+| Broad-Spectrum Sunscreen | Daily UV protection | All skin types |
+| Lightweight Moisturizer | Hydration without heaviness | Oily & Combination Skin |
+| Vitamin C Serum | Brightens and protects against free radicals | Dull & Uneven Skin |
+| Gentle Cleanser | Removes sweat, sunscreen and impurities | All skin types |
+| Hydrating Toner | Restores moisture balance | Dry & Combination Skin |
+| Clay Mask | Controls excess oil and deep cleans pores | Oily Skin |
+| Facial Mist | Refreshes and hydrates throughout the day | All skin types |
+| Oil-Free Cleanser | Removes excess oil without stripping | Oily & Acne-Prone Skin |
+| Eye Gel | Reduces puffiness and hydrates | All skin types |
+| Lip Balm with SPF | Protects lips from UV damage | Everyone |
 
 </div>
 
-### 3. 🍊 Vitamin C Serum
+---
 
-<div style="background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%); padding: 20px; border-radius: 10px; margin: 15px 0; border-left: 4px solid #f59e0b;">
+## Common Summer Skin Concerns
 
-**Best for:** Antioxidant protection, brightening, collagen support
+<div style="background:#FAF8F5;padding:28px;border:1px solid #E8E2DA;border-radius:14px;">
 
-**Primary Benefits:**
-- **Neutralizes Free Radicals:** Fights damage from pollution and UV radiation
-- **Brightens Skin Tone:** Fades dark spots and enhances radiance
-- **Boosts Sunscreen:** Increases the effectiveness of your SPF
-- **Collagen Production:** Supports skin's natural repair process
+Understanding seasonal skin challenges makes it easier to choose products that solve the right problems.
 
-**Application:** Apply in the morning before sunscreen for maximum protection ✨
+| Skin Concern | Why It Happens | Recommended Solution |
+|---------------|---------------|----------------------|
+| Sun Damage | Prolonged UV exposure | Broad-spectrum SPF 30+ sunscreen |
+| Excess Oil | Heat increases sebum production | Lightweight moisturizers and gentle cleansers |
+| Breakouts | Sweat, oil and clogged pores | Salicylic acid cleanser and weekly clay mask |
+| Dehydration | Sun exposure and air conditioning | Hydrating toner and moisturizer |
+| Hyperpigmentation | UV exposure triggers excess melanin | Daily sunscreen and Vitamin C serum |
+
+### Summer Skincare Checklist
+
+✔ Wear sunscreen every day.
+
+✔ Reapply SPF every two hours outdoors.
+
+✔ Use lightweight skincare instead of heavy creams.
+
+✔ Cleanse thoroughly after sweating.
+
+✔ Stay hydrated throughout the day.
+
+✔ Include antioxidants like Vitamin C in your morning routine.
 
 </div>
 
-### 4. 🧽 Gentle Exfoliant
+---
 
-<div style="background: linear-gradient(135deg, #e0e7ff 0%, #c7d2fe 100%); padding: 20px; border-radius: 10px; margin: 15px 0; border-left: 4px solid #6366f1;">
 
-**Best for:** Clearing clogged pores, removing dead skin cells, preventing breakouts
+---
 
-**Types to Choose:**
-- **Chemical Exfoliants:** AHAs (glycolic, lactic acid) or BHAs (salicylic acid)
-- **Physical Exfoliants:** Gentle scrubs with smooth particles
-- **Enzyme Exfoliants:** Papaya or pineapple-based formulas
+## Expert Dermatologist Advice
 
-**Frequency:** 2-3 times per week, preferably in the evening ✨
+<div style="background:#FAF8F5;padding:28px;border:1px solid #E8E2DA;border-radius:14px;">
+
+Healthy summer skin starts with consistency—not complexity. Dermatologists recommend focusing on protection, hydration, and maintaining a strong skin barrier rather than using too many active ingredients.
+
+> **"Daily sunscreen is the single most effective anti-ageing product you can use. Apply it every morning and reapply every two hours when outdoors."**
+
+> **"Lightweight, breathable skincare performs better during summer than rich creams that can trap sweat and oil."**
+
+> **"Vitamin C works alongside sunscreen by helping defend skin against environmental stress and visible sun damage."**
+
+> **"Hydrated skin is healthier skin. Drink enough water and support your skin barrier with gentle, hydrating products."**
 
 </div>
 
-### 5. 🌊 Hydrating Toner
+---
 
-<div style="background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%); padding: 20px; border-radius: 10px; margin: 15px 0; border-left: 4px solid #22c55e;">
+# 10 Essential Summer Skincare Products
 
-**Best for:** Rebalancing pH, prepping skin for other products, hydration boost
+Each product below plays a unique role in protecting your skin against heat, humidity and UV exposure. Together, they create a simple yet effective summer skincare routine suitable for most skin types.
 
-<div style="background: white; padding: 15px; border-radius: 8px; margin: 10px 0;">
+---
 
-| Ingredient | Benefit | Best for |
+## 1. Broad-Spectrum Sunscreen
+
+<div style="background:#FAF8F5;padding:26px;border:1px solid #E8E2DA;border-radius:14px;">
+
+**Best for**
+
+Daily protection against UVA and UVB rays.
+
+### Why it's essential
+
+Sunscreen helps prevent premature ageing, pigmentation, sunburn and long-term UV damage. It should be the final step of every morning skincare routine regardless of the weather.
+
+### Look for
+
+- SPF 30 or higher
+- Broad-spectrum protection
+- Lightweight finish
+- Water-resistant formula
+- Non-comedogenic ingredients
+
+### Pro Tip
+
+Apply sunscreen 15 minutes before going outdoors and reapply every two hours.
+
+**Related Guide**
+
+Learn how antioxidants improve sun protection in our guide:
+
+https://melsta.studio/mlogs/top-5-vitamin-c-serums-compared
+
+</div>
+
+---
+
+## 2. Lightweight Moisturizer
+
+<div style="background:#FFFFFF;padding:26px;border:1px solid #E8E2DA;border-radius:14px;">
+
+**Best for**
+
+Keeping skin hydrated without feeling greasy.
+
+### Why it's essential
+
+Hot weather increases water loss from the skin. A lightweight moisturizer helps strengthen your skin barrier while preventing dehydration.
+
+### Key Ingredients
+
+- Hyaluronic Acid
+- Ceramides
+- Glycerin
+- Niacinamide
+
+### Best For
+
+- Oily skin
+- Combination skin
+- Normal skin
+- Acne-prone skin
+
+### Pro Tip
+
+Apply immediately after cleansing while your skin is still slightly damp.
+
+**Related Guide**
+
+Build a complete skincare routine:
+
+https://melsta.studio/mlogs/korean-beauty-secrets-10-step-skincare-routine
+
+</div>
+
+---
+
+## 3. Vitamin C Serum
+
+<div style="background:#FAF8F5;padding:26px;border:1px solid #E8E2DA;border-radius:14px;">
+
+**Best for**
+
+Brightening dull skin and protecting against environmental damage.
+
+### Benefits
+
+- Helps reduce pigmentation
+- Supports collagen production
+- Neutralises free radicals
+- Improves skin radiance
+- Enhances sunscreen performance
+
+### How to Use
+
+Apply 2–3 drops every morning before moisturizer and sunscreen.
+
+### Ideal For
+
+Anyone concerned with uneven skin tone, dullness or early signs of ageing.
+
+</div>
+
+---
+
+## 4. Gentle Exfoliant
+
+<div style="background:#FFFFFF;padding:26px;border:1px solid #E8E2DA;border-radius:14px;">
+
+**Best for**
+
+Removing dead skin cells and preventing clogged pores.
+
+### Choose Between
+
+**AHAs**
+
+Improve texture and brightness.
+
+**BHAs**
+
+Deep clean oily and acne-prone skin.
+
+**Enzyme Exfoliants**
+
+A gentler option for sensitive skin.
+
+### Frequency
+
+Use only two or three evenings each week to avoid over-exfoliation.
+
+### Avoid
+
+Never exfoliate immediately after prolonged sun exposure.
+
+</div>
+
+---
+
+### 5. Hydrating Toner
+
+<div style="background:#ffffff;padding:24px;border-radius:12px;border:1px solid #e5e7eb;margin:24px 0;">
+
+![Hydrating Toner](images/5_hydrating-toner.avif)
+
+Hydrating toners restore moisture immediately after cleansing while preparing the skin to absorb serums and moisturizers more effectively.
+
+| Ingredient | Benefit | Best For |
 |------------|---------|----------|
-| **Niacinamide** | Minimizes pores and controls oil | Oily Skin |
-| **Panthenol** | Soothes and moisturizes | All Skin Types |
-| **Centella Asiatica** | Calms inflammation and redness | Sensitive Skin |
-| **Hyaluronic Acid** | Lightweight hydration | Dehydrated Skin |
+| Hyaluronic Acid | Lightweight hydration | Dehydrated skin |
+| Panthenol | Soothes irritation | Sensitive skin |
+| Niacinamide | Controls excess oil | Combination & oily skin |
+| Centella Asiatica | Reduces redness | Sensitive skin |
 
-</div>
+**Why it matters**
 
-</div>
-
-### 6. 🧱 Clay Mask
-
-<div style="background: linear-gradient(135deg, #fdf2f8 0%, #fce7f3 100%); padding: 20px; border-radius: 10px; margin: 15px 0; border-left: 4px solid #ec4899;">
-
-**Best for:** Deep pore cleansing, oil control, weekly detox
-
-**Types of Clay:**
-- **Bentonite:** Deep cleansing, oil absorption
-- **Kaolin:** Gentle cleansing, suitable for sensitive skin
-- **French Green:** Mineral-rich, detoxifying
-- **Pink Clay:** Gentle exfoliation, brightening
-
-**DIY Recipe:** Mix 2 tbsp bentonite clay with 1 tbsp apple cider vinegar and 1 tsp honey for a soothing mask ✨
-
-</div>
-
-### 7. 💨 Facial Mist
-
-<div style="background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%); padding: 20px; border-radius: 10px; margin: 15px 0; border-left: 4px solid #f59e0b;">
-
-**Best for:** Instant refreshment, hydration boost, makeup setting
-
-**Benefits:**
-- **Instant Cooling:** Refreshes hot, tired skin
-- **Hydration Boost:** Provides quick moisture
-- **Makeup Setting:** Helps set makeup and reduce shine
-- **Portable Care:** Easy to carry and use throughout the day
-
-**Key Ingredients:** Rose water, aloe vera, hyaluronic acid, green tea extract ✨
-
-</div>
-
-### 8. 🧼 Oil-Free Cleanser
-
-<div style="background: linear-gradient(135deg, #fef2f2 0%, #fee2e2 100%); padding: 20px; border-radius: 10px; margin: 15px 0; border-left: 4px solid #ef4444;">
-
-**Best for:** Removing sweat, sunscreen, and impurities without stripping
-
-**The Double Cleanse Method:**
-1. **First Cleanse (Oil-based):** Use a cleansing oil or balm to break down makeup, sunscreen, and sebum
-2. **Second Cleanse (Water-based):** Follow with a gentle, oil-free foaming or gel cleanser
-
-**Key Features:** Non-comedogenic, pH-balanced, gentle on skin barrier ✨
-
-</div>
-
-### 9. 👁️ Eye Gel
-
-<div style="background: linear-gradient(135deg, #e0e7ff 0%, #c7d2fe 100%); padding: 20px; border-radius: 10px; margin: 15px 0; border-left: 4px solid #6366f1;">
-
-**Best for:** Hydrating delicate under-eye skin, reducing puffiness
-
-**Key Ingredients:**
-- **Caffeine:** Reduces puffiness and dark circles
-- **Peptides:** Firms and supports the skin
-- **Cucumber Extract:** Cooling, soothing effect
-- **Hyaluronic Acid:** Lightweight hydration
-
-**Application:** Dab gently using ring finger, morning and evening ✨
-
-</div>
-
-### 10. 💋 Lip Protection with SPF
-
-<div style="background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%); padding: 20px; border-radius: 10px; margin: 15px 0; border-left: 4px solid #22c55e;">
-
-**Best for:** Protecting delicate lip skin from sun damage
-
-**Essential Features:**
-- **SPF 30+** for adequate protection
-- **Hydrating ingredients** like shea butter or vitamin E
-- **Long-lasting formula** that doesn't need constant reapplication
-- **Tinted options** for added color and protection
-
-**Pro Tip:** Reapply frequently, especially after eating or drinking ✨
-
-</div>
+Unlike traditional alcohol-based toners, modern hydrating toners strengthen the skin barrier and improve overall hydration without stripping natural oils.
 
 </div>
 
 ---
 
-## 🎨 Application Masterclass
+### 6. Clay Mask
 
-<div style="background: linear-gradient(135deg, #fdf2f8 0%, #fce7f3 100%); padding: 25px; border-radius: 15px; border: 2px solid #ec4899;">
+<div style="background:#ffffff;padding:24px;border-radius:12px;border:1px solid #e5e7eb;margin:24px 0;">
 
-### 🎨 How to Build Your Perfect Summer Skincare Routine
+![Clay Mask](images/6_clay-mask.avif)
 
-#### Step 1: Morning Routine ✨
-<div style="background: white; padding: 20px; border-radius: 10px; margin: 15px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+Clay masks provide a weekly deep cleanse by drawing out impurities, excess oil, and buildup that daily cleansing may miss.
 
-1. **Gentle Cleanser:** Remove overnight buildup
-2. **Vitamin C Serum:** Antioxidant protection
-3. **Hydrating Toner:** Prep skin for products
-4. **Lightweight Moisturizer:** Hydration without heaviness
-5. **Broad-Spectrum Sunscreen:** UV protection (SPF 30+)
-6. **Lip Balm with SPF:** Protect delicate lip skin
+**Choose according to your skin type**
 
-</div>
+- **Kaolin Clay** — Gentle enough for sensitive skin
+- **Bentonite Clay** — Best for oily and acne-prone skin
+- **French Green Clay** — Excellent for congested pores
+- **Pink Clay** — Mild purification with brightening benefits
 
-#### Step 2: Evening Routine ✨
-<div style="background: white; padding: 20px; border-radius: 10px; margin: 15px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+**Recommended use**
 
-1. **Double Cleanse:** Remove makeup, sunscreen, and impurities
-2. **Exfoliant (2-3x/week):** Remove dead skin cells
-3. **Hydrating Toner:** Rebalance pH
-4. **Serum:** Target specific concerns
-5. **Eye Gel:** Hydrate delicate under-eye area
-6. **Moisturizer:** Seal in hydration
-
-</div>
-
-#### Step 3: Weekly Treatments ✨
-<div style="background: white; padding: 20px; border-radius: 10px; margin: 15px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-
-1. **Clay Mask:** Deep pore cleansing
-2. **Sheet Mask:** Intensive hydration
-3. **Facial Massage:** Boost circulation and lymphatic drainage
-
-</div>
-
-#### Step 4: On-the-Go Care ✨
-<div style="background: white; padding: 20px; border-radius: 10px; margin: 15px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-
-1. **Facial Mist:** Instant refreshment
-2. **Sunscreen Reapplication:** Every 2 hours
-3. **Lip Balm:** Frequent reapplication
-4. **Blotting Papers:** Control excess oil
-
-</div>
+Use once or twice weekly after cleansing and before applying moisturizer.
 
 </div>
 
 ---
 
-## 🔥 Pro Tips & Techniques
+### 7. Facial Mist
 
-<div style="background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%); padding: 25px; border-radius: 15px; border: 2px solid #f59e0b;">
+<div style="background:#ffffff;padding:24px;border-radius:12px;border:1px solid #e5e7eb;margin:24px 0;">
 
-### 🔥 Advanced Summer Skincare Techniques
+![Facial Mist](images/7_facial-mist.avif)
 
-<div style="background: white; padding: 20px; border-radius: 10px; margin: 15px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+A facial mist instantly refreshes overheated skin while adding lightweight hydration throughout the day.
 
-| Technique | When to Use | How to Do It |
-|-----------|-------------|--------------|
-| **Sunscreen Layering** | Before outdoor activities | Apply 2 layers, wait 15 minutes between |
-| **Ice Rolling** | After sun exposure | Roll ice cube over face to reduce inflammation |
-| **Facial Massage** | Evening routine | Use upward motions to boost circulation |
-| **Sheet Masking** | Post-sun exposure | Apply hydrating mask to soothe skin |
+**Benefits**
 
-</div>
+- Refreshes skin after sun exposure
+- Reduces feelings of dryness indoors
+- Helps makeup appear fresher
+- Adds lightweight hydration without heaviness
 
-### 💡 Pro Secrets
+**Look for ingredients like**
 
-<div style="background: white; padding: 20px; border-radius: 10px; margin: 15px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-
-- **Apply sunscreen 15 minutes before sun exposure** for maximum protection ✨
-- **Reapply sunscreen every 2 hours** or after swimming/sweating ✨
-- **Use a vitamin C serum in the morning** to boost sunscreen effectiveness ✨
-- **Keep products in the refrigerator** for extra cooling benefits ✨
-- **Stay hydrated from the inside out** by drinking plenty of water ✨
-
-</div>
+- Aloe Vera
+- Rose Water
+- Green Tea
+- Hyaluronic Acid
 
 </div>
 
 ---
 
-## ✨ Final Thoughts
+### 8. Gentle Cleanser
 
-<div style="text-align: center; margin: 30px 0;">
+<div style="background:#ffffff;padding:24px;border-radius:12px;border:1px solid #e5e7eb;margin:24px 0;">
 
-*Your summer skincare journey starts with understanding your skin's unique needs*
+![Gentle Cleanser](images/8_gentle-cleanser.avif)
 
-</div>
+Summer skin collects sunscreen, sweat, pollution, and excess oil throughout the day. A gentle cleanser removes impurities without damaging the skin barrier.
 
-<div style="background: linear-gradient(135deg, #fdf2f8 0%, #fce7f3 100%); padding: 25px; border-radius: 15px; border: 2px solid #ec4899;">
+### Double Cleansing Routine
 
-Summer skincare is about more than just protection—it's about maintaining your skin's health and radiance throughout the season. By understanding your skin's unique challenges and using the right products, you can enjoy the summer sun while keeping your skin healthy and glowing.
+1. Oil cleanser removes sunscreen and makeup.
+2. Water-based cleanser removes remaining dirt and sweat.
 
-**Remember:** Consistency is key. A proper summer skincare routine will help you maintain healthy, radiant skin all season long. ✨
+**Best cleanser characteristics**
 
-</div>
-
----
-
-### 📚 What's Next?
-
-<div style="background: linear-gradient(135deg, #e0e7ff 0%, #c7d2fe 100%); padding: 20px; border-radius: 12px; border-left: 4px solid #6366f1;">
-
-✨ *Stay tuned for more seasonal skincare guides:*
-- Fall skincare transition guide 🍂
-- Winter skin protection strategies ❄️
-- Spring skin renewal techniques 🌸
-- Year-round skin health maintenance 💎
+- Sulfate-free
+- pH balanced
+- Non-comedogenic
+- Fragrance-free for sensitive skin
 
 </div>
 
 ---
 
-<div align="center" style="background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%); padding: 25px; border-radius: 15px; border: 2px solid #f59e0b;">
+### 9. Cooling Eye Gel
 
-*Ready to achieve your healthiest summer skin? Start with these 10 essential products and watch your natural glow shine through!* ✨
+<div style="background:#ffffff;padding:24px;border-radius:12px;border:1px solid #e5e7eb;margin:24px 0;">
 
-</div> 
+![Eye Gel](images/9_eye-gel.avif)
+
+The delicate eye area often becomes puffy during warmer weather due to heat and dehydration. Cooling eye gels help reduce puffiness while providing lightweight hydration.
+
+**Ingredients to look for**
+
+- Caffeine
+- Peptides
+- Hyaluronic Acid
+- Cucumber Extract
+
+Store the eye gel in the refrigerator for an extra cooling effect.
+
+</div>
+
+---
+
+### 10. Lip Balm with SPF
+
+<div style="background:#ffffff;padding:24px;border-radius:12px;border:1px solid #e5e7eb;margin:24px 0;">
+
+![Lip Balm SPF](images/10_lip-balm.avif)
+
+Lips contain very little melanin and burn easily under UV exposure. Using an SPF lip balm protects against dryness, cracking, and long-term sun damage.
+
+Choose products with:
+
+- SPF 30 or higher
+- Shea Butter
+- Vitamin E
+- Long-lasting hydration
+
+Reapply every two hours while outdoors.
+
+</div>
+
+---
+
+---
+
+## Build an Effective Summer Skincare Routine
+
+A consistent routine is more effective than using dozens of products. Follow this simple dermatologist-inspired order to keep your skin protected, hydrated, and healthy throughout summer.
+
+<div style="background:#ffffff;border:1px solid #e5e7eb;border-radius:12px;padding:24px;">
+
+### Morning Routine ☀️
+
+1. Cleanse with a gentle face wash.
+2. Apply Vitamin C serum for antioxidant protection.
+3. Use a hydrating toner if your skin feels dehydrated.
+4. Apply a lightweight moisturizer.
+5. Finish with a broad-spectrum SPF 30+ sunscreen.
+6. Protect your lips with an SPF lip balm.
+
+<hr>
+
+### Evening Routine 🌙
+
+1. Remove sunscreen and makeup using the double cleanse method.
+2. Exfoliate 2–3 times weekly.
+3. Apply a hydrating toner.
+4. Use treatment serums based on your skin concerns.
+5. Apply eye gel if needed.
+6. Lock everything in with a moisturizer.
+
+<hr>
+
+### Weekly Treatments
+
+✔ Clay Mask — once or twice weekly
+
+✔ Hydrating Sheet Mask — after long sun exposure
+
+✔ Facial Massage — improves circulation and reduces puffiness
+
+<hr>
+
+### During the Day
+
+• Reapply sunscreen every two hours.
+
+• Carry facial mist for instant hydration.
+
+• Use blotting papers instead of washing your face repeatedly.
+
+</div>
+
+---
+
+## Expert Summer Skincare Tips
+
+Small habits often make the biggest difference. Follow these dermatologist-backed practices to keep your skin healthy throughout the season.
+
+<div style="background:#ffffff;border:1px solid #e5e7eb;border-radius:12px;padding:24px;">
+
+| Tip | Why it Matters |
+|------|----------------|
+| Apply sunscreen 15–20 minutes before going outdoors | Gives UV filters enough time to form an even protective layer. |
+| Reapply SPF every 2 hours | Protection decreases with sweat, water, and sun exposure. |
+| Drink enough water | Supports your skin's natural moisture barrier. |
+| Switch to lightweight skincare | Prevents clogged pores during hot weather. |
+| Avoid over-exfoliating | Too much exfoliation weakens the skin barrier. |
+| Wear sunglasses and a hat | Provides additional protection against UV exposure. |
+
+</div>
+
+---
+
+## Frequently Asked Questions
+
+### What is the most important skincare product for summer?
+
+Broad-spectrum sunscreen is the most essential summer skincare product because it protects against UVA and UVB rays, reducing the risk of sunburn, pigmentation, and premature ageing.
+
+---
+
+### Should oily skin use moisturizer during summer?
+
+Yes. Choose a lightweight, oil-free moisturizer. Skipping moisturizer can actually increase oil production as your skin tries to compensate for dehydration.
+
+---
+
+### Can I use Vitamin C serum in summer?
+
+Absolutely. Vitamin C helps fight free radicals caused by sun exposure and pollution while improving overall skin brightness. Apply it before sunscreen during your morning routine.
+
+---
+
+### How often should I reapply sunscreen?
+
+Every two hours when outdoors, and immediately after swimming, excessive sweating, or towel drying.
+
+---
+
+### Which skincare routine works best during summer?
+
+A simple routine works best:
+
+- Gentle Cleanser
+- Vitamin C Serum
+- Lightweight Moisturizer
+- Broad-Spectrum Sunscreen
+
+At night, cleanse thoroughly, moisturize, and exfoliate only a few times per week.
+
+---
+
+## Key Takeaways
+
+<div style="background:#f8fafc;border-left:4px solid #2563eb;padding:18px;border-radius:10px;">
+
+✔ Wear SPF 30+ sunscreen every day.
+
+✔ Choose lightweight, non-comedogenic skincare.
+
+✔ Vitamin C enhances daily sun protection.
+
+✔ Hydration is important for every skin type.
+
+✔ Reapply sunscreen regularly.
+
+✔ Consistency delivers better results than using too many products.
+
+</div>
+
+---
+
+## Conclusion
+
+Summer skincare doesn't need to be complicated. Choosing the right products and following a consistent routine helps protect your skin from UV damage, excess oil, dehydration, and environmental stress.
+
+Start with the essentials—a gentle cleanser, Vitamin C serum, lightweight moisturizer, and sunscreen—and build your routine around your skin's individual needs. Small daily habits today will help keep your skin healthier, brighter, and more resilient throughout the season.
+
+---
+
+## Continue Reading
+
+<div style="background:#f8fafc;border:1px solid #e5e7eb;border-radius:12px;padding:22px;">
+
+If you found this guide helpful, explore more skincare and beauty resources:
+
+- **Complete Routine:** https://melsta.studio/mlogs/korean-beauty-secrets-10-step-skincare-routine
+
+- **Product Comparison:** https://melsta.studio/mlogs/top-5-vitamin-c-serums-compared
+
+- **Makeup Guide:** https://melsta.studio/mlogs/best-luxury-foundations-for-every-skin-type
+
+</div>
+
+---
+
+<div align="center">
+
+**Healthy skin isn't built overnight—it grows from consistent care every single day.**
+
+</div>
