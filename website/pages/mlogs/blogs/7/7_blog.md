@@ -1,413 +1,508 @@
-# ✨ Runway-Inspired Summer Makeup Trends ✨
+# Runway-Inspired Summer Makeup Trends: Wearable Looks for Every Occasion
 
-> *Your ultimate guide to translating high-fashion runway looks into wearable summer beauty with expert techniques and real-world applications.*
+> *Discover how to recreate this season's biggest runway-inspired makeup trends with practical techniques, expert advice, and products that work beyond the catwalk.*
 
 ---
+
+## Quick Summary
+
+Summer runway beauty is all about **healthy skin, soft color, and lightweight textures**. Rather than dramatic editorial makeup, this season focuses on glowing complexions, watercolor-inspired eyes, glossy lips, and fresh blush placement.
+
+In this guide you'll learn:
+
+- The biggest Summer runway makeup trends
+- How to recreate each look at home
+- Expert techniques from professional makeup artists
+- Products that make application easier
+- Mistakes to avoid
+- Pro tips for long-lasting summer makeup
+
+If you're building your seasonal makeup routine, don't miss our guides on **[Advanced Contouring Techniques](../5/index.md)** and **[Top Vitamin C Serums Compared](../6/index.md)** for healthier skin and flawless makeup application.
+
+---
+
+# Runway-Inspired Summer Makeup Trends
+
+Fashion week isn't just about clothing—it sets the direction for beauty trends worldwide. Every season, professional makeup artists introduce fresh techniques, color combinations, and finishes that eventually become everyday beauty trends.
+
+The good news? You don't need backstage professionals or luxury products to recreate these looks.
+
+Summer's biggest runway trends emphasize glowing skin, breathable makeup, soft colors, and effortless beauty that works even in warm weather.
+
+---
+
+## Why Runway Makeup Matters
+
+Unlike social media beauty trends that often rely on heavy filters, runway makeup must look beautiful under bright lights, cameras, and in person.
+
+Today's runway looks prioritize:
+
+- Healthy-looking skin
+- Lightweight textures
+- Easy layering
+- Long-lasting wear
+- Natural enhancement instead of heavy coverage
+
+Many of these techniques are perfect for weddings, parties, vacations, and everyday wear.
+
+If your focus is creating a flawless complexion first, read our guide on **[Top Vitamin C Serums Compared](../6/index.md)** to build the perfect skincare routine before applying makeup.
+
+---
+
+## Summer 2025 Beauty Trend Overview
+
+This season is dominated by fresh, breathable beauty.
+
+| Trend | Why It's Popular | Difficulty |
+|---------|----------------|------------|
+| Glazed Skin | Healthy luminous finish | Easy |
+| Watercolor Eyes | Soft colorful makeup | Easy |
+| Blush Draping | Lifted youthful cheeks | Medium |
+| Floating Eyeliner | Modern editorial look | Medium |
+| Vinyl Lips | Glossy hydrated lips | Easy |
+
+Rather than copying runway looks exactly, professional artists recommend adapting trends to suit your own face shape, skin tone, and lifestyle.
+
+---
+
+## Expert Insights
+
+We spoke with **Melmua**, professional runway makeup artist and beauty educator.
+
+> **"Summer makeup should never feel heavy. Your skincare should do most of the work before makeup even begins."**
+
+> **"Cream formulas create movement and freshness that powders often can't achieve in hot weather."**
+
+> **"Editorial makeup isn't about wearing more products—it's about placing products more intentionally."**
+
+> **"The best runway-inspired makeup doesn't look like runway makeup at all. It simply looks effortless."**
+
+---
+
+## Top 5 Runway Looks to Try This Summer
+
+These runway trends may look editorial at first glance, but each one can easily be adapted into wearable makeup for brunches, weddings, vacations, office days, or evening events.
+
+---
+
+### 1. Glazed Skin
 
 <div align="center">
 
-**🌟 From Catwalk to Sidewalk 🌟**
+![Glazed Skin](images/mlog7_glazed_skin.jpg)
 
-*Because every woman deserves to feel like she just stepped off the runway, even on the hottest summer days.*
+*Healthy, hydrated skin remains the biggest runway trend.*
+
+</div>
+
+<div style="background:#FDF6F8;padding:18px;border-left:4px solid #C97C8B;border-radius:8px;">
+
+**Runway Inspiration**
+
+Fashion houses across Paris and Milan focused on luminous skin that looked naturally hydrated rather than covered with heavy foundation.
+
+**Why It Works**
+
+- Creates youthful-looking skin
+- Looks beautiful in natural sunlight
+- Feels lightweight during hot weather
+- Enhances natural facial features
+
+**How to Recreate It**
+
+✔ Hydrating toner
+
+✔ Lightweight moisturizer
+
+✔ Illuminating primer
+
+✔ Skin tint instead of full-coverage foundation
+
+✔ Cream highlighter on cheekbones and temples
+
+✔ Finish with a dewy setting spray
+
+**Best For**
+
+- Everyday wear
+- Outdoor events
+- Summer weddings
+- Vacation makeup
 
 </div>
 
 ---
 
-## 📋 Table of Contents
+### 🎨 2. Watercolor Eyes
 
-<div style="background: linear-gradient(135deg, #fdf2f8 0%, #fce7f3 100%); padding: 20px; border-radius: 12px; border-left: 4px solid #ec4899;">
+<div align="center">
 
-- [Why Runway Trends Matter](#why-runway-trends-matter) 💫
-- [Understanding Summer 2025 Trends](#understanding-summer-2025-trends) 🎯
-- [Expert Insights](#expert-insights) 💬
-- [Top 5 Runway Looks Breakdown](#top-5-runway-looks-breakdown) 💄
-- [Application Masterclass](#application-masterclass) 🎨
-- [Pro Tips & Techniques](#pro-tips--techniques) 🔥
-- [Final Thoughts](#final-thoughts) ✨
+![Watercolor Eyes](images/mlog7_watercolor.jpg)
+
+*Soft washes of pastel color replace dramatic smoky eyes.*
+
+</div>
+
+<div style="background:#FAF1F3;padding:18px;border-left:4px solid #C97C8B;border-radius:8px;">
+
+**Runway Inspiration**
+
+Instead of sharp-cut creases, artists blended pastel colors seamlessly across the eyelids for an airy, watercolor effect.
+
+Popular shades include:
+
+- Lavender
+- Peach
+- Coral
+- Mint
+- Soft Blue
+- Baby Pink
+
+**Application Tips**
+
+- Apply cream shadow using fingertips.
+- Blend outward with a fluffy brush.
+- Keep edges soft.
+- Avoid harsh eyeliner.
+
+**Why You'll Love It**
+
+Watercolor eyes are surprisingly wearable and instantly brighten the face without appearing overdone.
 
 </div>
 
 ---
 
-## 💫 Why Runway Trends Matter
+### 3. Blush Draping
 
-<div style="background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%); padding: 25px; border-radius: 15px; border: 2px solid #f59e0b;">
+<div align="center">
 
-Runway makeup isn't just about theatrical looks—it's about innovation, creativity, and pushing boundaries that eventually trickle down to everyday beauty. Summer 2025's runway trends focus on **effortless impact**, combining vibrancy with skin-first finishes that work in real life.
+![Blush Draping](images/mlog7_blush_draping.jpg)
 
-**The runway-to-reality difference:**
-- ✨ Innovation that inspires everyday beauty
-- ✨ Techniques that work beyond studio lighting
-- ✨ Trends that celebrate natural beauty
-- ✨ Looks that are both artistic and wearable
+*Blush is no longer limited to the apples of the cheeks.*
 
-Whether you're a beauty enthusiast or just want to stay current, understanding runway trends helps you make informed choices about your personal style.
+</div>
+
+<div style="background:#FDF6F8;padding:18px;border-left:4px solid #C97C8B;border-radius:8px;">
+
+Instead of placing blush only on the cheeks, runway artists sweep it upward toward the temples.
+
+This creates:
+
+- Lifted facial appearance
+- Fresh youthful glow
+- Natural sculpting
+- Less need for heavy contour
+
+**Professional Tip**
+
+Cream blush blends more naturally than powder during summer.
+
+**Best Shades**
+
+- Peach
+- Coral
+- Warm Rose
+- Soft Berry
+
+For even more definition, pair blush draping with our **[Advanced Contouring Techniques](../5/index.md)** guide.
 
 </div>
 
 ---
 
-## 🎯 Understanding Summer 2025 Trends
+### 4. Floating Eyeliner
 
-<div style="text-align: center; margin: 30px 0;">
+<div align="center">
 
-*Summer 2025 celebrates effortless impact with skin-first beauty and bold accents*
+![Floating Eyeliner](images/mlog7_floating_eyeliner.jpg)
 
-</div>
-
-The SS25 runways in New York, Milan, and Paris showcased a new approach to summer beauty:
-
-### 🎯 Key Summer 2025 Runway Trends
-
-<div style="background: linear-gradient(135deg, #e0e7ff 0%, #c7d2fe 100%); padding: 20px; border-radius: 12px; border-left: 4px solid #6366f1;">
-
-| Trend | Concept | Real-World Application |
-|-------|---------|----------------------|
-| **Glazed Skin** | Dewy, plumped-up skin with natural glow | Hydrating primers and lightweight foundations |
-| **Watercolor Eyes** | Sheer washes of pastel or neon shadow | Buildable cream shadows applied with fingers |
-| **Blush Draping** | Extended blush from cheeks to temples | Cream blushes blended in upward "C" shape |
-| **Floating Eyeliner** | Graphic liner away from the lashline | Pastel or neon liners above crease or outer corner |
-| **Vinyl Lips** | High-gloss finishes in warm corals and berries | Gloss applied to center of lips for dimension |
+*Graphic liner receives a softer summer update.*
 
 </div>
 
----
+<div style="background:#FAF1F3;padding:18px;border-left:4px solid #C97C8B;border-radius:8px;">
 
-## 💬 Expert Insights
+Floating eyeliner places color slightly above the natural crease instead of directly along the lash line.
 
-<div style="background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%); padding: 25px; border-radius: 15px; border: 2px solid #22c55e;">
+Popular colors include:
 
-We consulted **Melmua**, runway makeup lead and creative consultant, for expert insights:
+- White
+- Lilac
+- Mint Green
+- Electric Blue
+- Peach
 
-### 💬 Melmua's Runway-to-Reality Rules
+This technique creates an editorial effect while keeping the eyes looking open and fresh.
 
-<div style="background: white; padding: 20px; border-radius: 10px; margin: 15px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+**Beginner Tip**
 
-> **"Less is more, but light reflection is everything. Stick to cream textures in the heat — powders can look dry and cakey."** 🌸
-
-</div>
-
-<div style="background: white; padding: 20px; border-radius: 10px; margin: 15px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-
-> **"Apply bold shades with a light hand. Use your fingers to soften edges for a lived-in, editorial feel that looks natural."** ✨
-
-</div>
-
-<div style="background: white; padding: 20px; border-radius: 10px; margin: 15px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-
-> **"Layer hydration under your makeup to keep it fresh. Skincare and primer are your real base — foundation is just the finishing touch."** 💎
-
-</div>
-
-<div style="background: white; padding: 20px; border-radius: 10px; margin: 15px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-
-> **"Gloss is back, but control it — just the center of the lip, or a gloss-topper over pencil for definition without the mess."** 🌟
-
-</div>
+Start with a thin line before experimenting with graphic shapes.
 
 </div>
 
 ---
 
-## 💄 Top 5 Runway Looks Breakdown
+### 5. Vinyl Lips
 
-<div style="background: linear-gradient(135deg, #fef7ff 0%, #f3e8ff 100%); padding: 25px; border-radius: 15px; border: 2px solid #a855f7;">
+<div align="center">
 
-### 1. ✨ Glazed Skin
+![Vinyl Lips](images/mlog7_vinyl_lips.jpg)
 
-<div style="text-align: center; margin: 20px 0;">
-<img src="https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/7/images/mlog7_glazed_skin.jpg" alt="Glazed Skin Runway Trend" style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.1);">
-<em>The dewy, plumped-up skin trend that's taking over summer runways</em>
-</div>
-
-<div style="background: white; padding: 20px; border-radius: 10px; margin: 15px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-
-**Runway Inspiration:** Dewy, plumped-up skin that looks naturally radiant
-
-**Key Elements:**
-- **Hydration-First:** Multiple layers of lightweight hydration
-- **Reflective Finish:** Products that catch and reflect light naturally
-- **Minimal Coverage:** Skin tint or serum foundation only where needed
-- **Strategic Highlighting:** Cream highlighters on high points
-
-**Real-World Application:**
-- Start with hydrating toner and lightweight moisturizer
-- Use glowy primer like Supergoop Glowscreen
-- Apply skin tint with fingers for natural finish
-- Add cream highlighter to cheekbones, brow bone, and cupid's bow
-
-**Pro Tip:** The key is layering hydration, not heavy products ✨
+*Gloss makes a major comeback this season.*
 
 </div>
 
-### 2. 🎨 Watercolor Eyes
+<div style="background:#FDF6F8;padding:18px;border-left:4px solid #C97C8B;border-radius:8px;">
 
-<div style="text-align: center; margin: 20px 0;">
-<img src="https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/7/images/mlog7_watercolor.jpg" alt="Watercolor Eyes Runway Trend" style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.1);">
-<em>Soft, sheer washes of color that create the ultimate summer eye look</em>
-</div>
+Forget matte finishes.
 
-<div style="background: linear-gradient(135deg, #fef2f2 0%, #fee2e2 100%); padding: 20px; border-radius: 10px; margin: 15px 0; border-left: 4px solid #ef4444;">
+Summer runways featured hydrated lips with reflective shine.
 
-**Runway Inspiration:** Sheer washes of pastel or neon shadow with no hard lines
+**How to Get the Look**
 
-**Key Elements:**
-- **Soft Edges:** No harsh lines or defined shapes
-- **Buildable Pigment:** Start sheer and build intensity
-- **Finger Application:** Use fingers for most natural blending
-- **Pastel Palette:** Lavender, coral, mint, and soft pinks
+1. Apply lip liner.
+2. Use creamy lipstick.
+3. Finish with gloss only at the center of the lips.
 
-**Real-World Application:**
-- Apply cream shadow with fingers across entire lid
-- Blend edges with clean finger or damp sponge
-- Layer colors for dimension without heaviness
-- Keep mascara minimal or skip for ultra-natural look
+This creates:
 
-**Pro Tip:** Use your ring finger for the gentlest application ✨
+- Fuller-looking lips
+- Better light reflection
+- Comfortable wear
+- Healthy appearance
 
-</div>
+For smooth lipstick application, maintaining healthy skin is equally important. Read **[Top Vitamin C Serums Compared](../6/index.md)** to support an even complexion from the skincare stage.
 
-### 3. 🌸 Blush Draping
+---
+## Runway Summer Makeup Application Guide
 
-<div style="text-align: center; margin: 20px 0;">
-<img src="https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/7/images/mlog7_blush_draping.jpg" alt="Blush Draping Runway Trend" style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.1);">
-<em>Extended blush application that creates a lifted, sculpted effect</em>
-</div>
+Creating runway-inspired makeup isn't about using more products—it's about using the right products in the right order. Follow these steps to achieve a fresh, wearable finish that lasts throughout the day.
 
-<div style="background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%); padding: 20px; border-radius: 10px; margin: 15px 0; border-left: 4px solid #f59e0b;">
+---
 
-**Runway Inspiration:** Extended blush from cheeks to temples in upward "C" shape
+### Step 1: Prepare the Skin
 
-**Key Elements:**
-- **Extended Placement:** Blush goes beyond traditional cheek area
-- **Upward Movement:** Blend in upward direction for lifted effect
-- **Cream Formula:** Easier to blend and more natural finish
-- **Warm Tones:** Corals, peaches, and warm pinks
+<div style="background:#FDF6F8;padding:18px;border-left:4px solid #C97C8B;border-radius:8px;">
 
-**Real-World Application:**
-- Dot cream blush from cheekbone up to temples
-- Blend upward in "C" shape with fingers or sponge
-- Layer for intensity without heaviness
-- Extend slightly onto eyelids for monochromatic look
+Healthy-looking makeup begins with healthy-looking skin.
 
-**Pro Tip:** Apply blush before foundation for the most natural finish ✨
+**Preparation Routine**
 
-</div>
+1. Cleanse using a gentle face wash.
+2. Apply a hydrating toner.
+3. Use a lightweight moisturizer.
+4. Finish with an illuminating primer.
 
-### 4. ✨ Floating Eyeliner
+Hydrated skin helps makeup blend better while maintaining the fresh, glowing finish that dominates this season's runway looks.
 
-<div style="text-align: center; margin: 20px 0;">
-<img src="https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/7/images/mlog7_floating_eyeliner.jpeg" alt="Floating Eyeliner Runway Trend" style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.1);">
-<em>Graphic liner placement that creates bold, artistic eye looks</em>
-</div>
-
-<div style="background: linear-gradient(135deg, #e0e7ff 0%, #c7d2fe 100%); padding: 20px; border-radius: 10px; margin: 15px 0; border-left: 4px solid #6366f1;">
-
-**Runway Inspiration:** Graphic liner away from the lashline in bold colors
-
-**Key Elements:**
-- **Floating Placement:** Liner above crease or at outer corner
-- **Bold Colors:** Pastels, neons, and unexpected shades
-- **Clean Lines:** Sharp, precise application
-- **Minimal Base:** Let the liner be the focus
-
-**Real-World Application:**
-- Draw floating liner slightly above crease or outer corner
-- Use pastel or neon shades for summer freshness
-- Keep lines thin and precise
-- Balance with minimal other eye makeup
-
-**Pro Tip:** Use tape or stencil for perfect lines ✨
-
-</div>
-
-### 5. 💋 Vinyl Lips
-
-<div style="text-align: center; margin: 20px 0;">
-<img src="https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/7/images/mlog7_vinyl_lips.jpeg" alt="Vinyl Lips Runway Trend" style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.1);">
-<em>High-gloss finishes that create the ultimate summer lip look</em>
-</div>
-
-<div style="background: linear-gradient(135deg, #f0fdf4 0%, #dcfce7 100%); padding: 20px; border-radius: 10px; margin: 15px 0; border-left: 4px solid #22c55e;">
-
-**Runway Inspiration:** High-gloss finishes in warm corals and berries
-
-**Key Elements:**
-- **High Shine:** Ultra-glossy, vinyl-like finish
-- **Warm Tones:** Corals, berries, and warm nudes
-- **Defined Edges:** Liner for shape, gloss for shine
-- **Center Focus:** Gloss applied primarily to center of lips
-
-**Real-World Application:**
-- Define lips with nude or berry pencil
-- Apply gloss only to center of lips
-- Use gloss-topper over matte lipstick for dimension
-- Choose warm, flattering shades
-
-**Pro Tip:** Apply gloss with finger for more control and less mess ✨
-
-</div>
+For an even brighter complexion, explore our guide on **[Top Vitamin C Serums Compared](../6/index.md)**.
 
 </div>
 
 ---
 
-## 🎨 Application Masterclass
+### Step 2: Create a Lightweight Base
 
-<div style="background: linear-gradient(135deg, #fdf2f8 0%, #fce7f3 100%); padding: 25px; border-radius: 15px; border: 2px solid #ec4899;">
+<div style="background:#FAF1F3;padding:18px;border-left:4px solid #C97C8B;border-radius:8px;">
 
-### 🎨 How to Create "Runway Summer Glow"
+Heavy foundation has taken a back seat this season.
 
-#### Step 1: Perfect Skin Preparation ✨
-<div style="background: white; padding: 20px; border-radius: 10px; margin: 15px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+Instead, focus on creating an even complexion while allowing your natural skin texture to remain visible.
 
-**Hydration Layering:**
-1. **Hydrating Toner:** Apply with cotton pad or hands
-2. **Lightweight Moisturizer:** Gel or water-based formula
-3. **Glowy Primer:** Supergoop Glowscreen or similar
-4. **Wait Time:** Let each layer absorb fully
+**Recommended Order**
 
-**Product Recommendations:**
-- **Toner:** Glow Recipe Watermelon Glow PHA + BHA Pore-Tight Toner
-- **Moisturizer:** Summer Fridays Cloud Dew Gel Cream
-- **Primer:** Supergoop Glowscreen SPF 40
+- Apply a skin tint or lightweight foundation.
+- Conceal only where necessary.
+- Blend thoroughly using a damp sponge.
+- Avoid excessive powder.
+- Lock everything in with a dewy setting spray.
 
-</div>
-
-#### Step 2: Effortless Base Application ✨
-<div style="background: white; padding: 20px; border-radius: 10px; margin: 15px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-
-**Skin-First Approach:**
-1. **Skin Tint:** Apply only where needed with fingers
-2. **Spot Conceal:** Use concealer only on blemishes or dark circles
-3. **No Heavy Powder:** Skip powder to maintain dewiness
-4. **Setting Spray:** Use between layers for staying power
-
-**Application Technique:**
-- Apply skin tint with fingers for most natural finish
-- Blend concealer with small brush or finger
-- Use setting spray to lock in without mattifying
-
-</div>
-
-#### Step 3: Blush Draping Technique ✨
-<div style="background: white; padding: 20px; border-radius: 10px; margin: 15px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-
-**Extended Blush Application:**
-1. **Dot Placement:** Apply cream blush from cheekbone to temples
-2. **Upward Blending:** Blend in upward "C" shape
-3. **Layering:** Build intensity gradually
-4. **Eye Connection:** Extend slightly onto eyelids
-
-**Product Recommendations:**
-- **Cream Blush:** Rare Beauty Soft Pinch Liquid Blush in "Lucky"
-- **Application:** Use fingers or damp sponge for natural finish
-
-</div>
-
-#### Step 4: Watercolor Eye Artistry ✨
-<div style="background: white; padding: 20px; border-radius: 10px; margin: 15px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-
-**Soft, Sheer Eye Makeup:**
-1. **Cream Shadow:** Apply soft lavender or coral across lids
-2. **Finger Blending:** Use fingers for most natural finish
-3. **No Hard Lines:** Keep everything soft and diffused
-4. **Minimal Mascara:** Tinted mascara or skip entirely
-
-**Floating Liner (Optional):**
-- Draw thin line above crease or at outer corner
-- Use pastel shades for summer freshness
-- Keep lines precise but not too thick
-
-</div>
-
-#### Step 5: Vinyl Lip Perfection ✨
-<div style="background: white; padding: 20px; border-radius: 10px; margin: 15px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-
-**High-Gloss Lip Application:**
-1. **Lip Liner:** Define with nude or berry pencil
-2. **Center Gloss:** Apply gloss only to center of lips
-3. **Blot and Reapply:** For long-lasting shine
-4. **Touch-Up Ready:** Easy to refresh throughout the day
-
-**Product Recommendations:**
-- **Lip Liner:** Charlotte Tilbury Lip Cheat in "Pillow Talk"
-- **Gloss:** Fenty Gloss Bomb Heat or Maybelline Lifter Gloss
-
-</div>
+The goal is skin that looks healthy rather than heavily covered.
 
 </div>
 
 ---
 
-## 🔥 Pro Tips & Techniques
+### Step 3: Add Color Strategically
 
-<div style="background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%); padding: 25px; border-radius: 15px; border: 2px solid #f59e0b;">
+<div style="background:#FDF6F8;padding:18px;border-left:4px solid #C97C8B;border-radius:8px;">
 
-### 🔥 Runway-to-Reality Techniques
+Color placement makes the biggest difference.
 
-<div style="background: white; padding: 20px; border-radius: 10px; margin: 15px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+Apply cream blush beginning at the cheeks and blend upward toward the temples.
 
-| Technique | When to Use | How to Do It |
-|-----------|-------------|--------------|
-| **Hydration Layering** | For glazed skin effect | Layer toner, serum, moisturizer, primer |
-| **Finger Application** | For most natural finish | Use fingers for cream products and blending |
-| **Setting Spray Between Layers** | For staying power | Spray between cream layers to lock in |
-| **Sheer Pigment Building** | For watercolor effects | Start sheer and build intensity gradually |
-| **Center-Focus Gloss** | For vinyl lips | Apply gloss only to center of lips |
+This technique creates:
 
-</div>
+- Lifted facial features
+- A youthful appearance
+- Natural warmth
+- Better harmony with glowing skin
 
-### 💡 Pro Secrets
-
-<div style="background: white; padding: 20px; border-radius: 10px; margin: 15px 0; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
-
-- **Layer hydration under makeup** to keep it fresh all day ✨
-- **Use cream textures in heat** - powders can look dry and cakey ✨
-- **Apply bold shades with light hand** for lived-in, editorial feel ✨
-- **Skip heavy lashes** - try tinted mascara or individual corner lashes ✨
-- **Blot excess oil with tissue** then reapply cream products ✨
-
-</div>
+If you'd like additional facial definition, pair this technique with our **[Advanced Contouring Techniques](../5/index.md)** guide.
 
 </div>
 
 ---
 
-## ✨ Final Thoughts
+### Step 4: Keep Eye Makeup Soft
 
-<div style="text-align: center; margin: 20px 0;">
-<img src="https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/7/images/mlog7_final.jpg" alt="Runway Summer Beauty Trends" style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 8px 16px rgba(0,0,0,0.1);">
-<em>Runway trends are meant to inspire, not intimidate - adapt them to your personal style</em>
-</div>
+<div style="background:#FAF1F3;padding:18px;border-left:4px solid #C97C8B;border-radius:8px;">
 
-<div style="background: linear-gradient(135deg, #fdf2f8 0%, #fce7f3 100%); padding: 25px; border-radius: 15px; border: 2px solid #ec4899;">
+Runway eye makeup focuses on soft color rather than dramatic definition.
 
-Runway makeup trends are about innovation and creativity, but the best looks are those that work in real life. Summer 2025's focus on effortless impact and skin-first beauty makes these trends more accessible than ever.
+**Recommended Technique**
 
-**Remember:** The runway is about inspiration, not replication. Take elements you love and adapt them to your personal style and lifestyle. With the right techniques and products, you can achieve that high-fashion finish without the studio lights. ✨
+- Apply cream eyeshadow with fingertips.
+- Blend edges gently.
+- Use one or two complementary shades.
+- Keep eyeliner minimal or experiment with floating liner.
+- Finish with a light coat of mascara.
 
-</div>
-
----
-
-### 📚 What's Next?
-
-<div style="background: linear-gradient(135deg, #e0e7ff 0%, #c7d2fe 100%); padding: 20px; border-radius: 12px; border-left: 4px solid #6366f1;">
-
-✨ *Stay tuned for more runway-inspired beauty guides:*
-- Fall 2025 makeup trends 🍂
-- Winter runway beauty techniques ❄️
-- Spring color palettes and applications 🌸
-- Year-round runway-to-reality transformations ✨
+Soft blending creates a modern, effortless appearance that's ideal for summer.
 
 </div>
 
 ---
 
-<div align="center" style="background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%); padding: 25px; border-radius: 15px; border: 2px solid #f59e0b;">
+### Step 5: Finish with Glossy Lips
 
-*Ready to bring runway glamour to your everyday life? Start with these techniques and watch your summer beauty routine transform!* ✨
+<div style="background:#FDF6F8;padding:18px;border-left:4px solid #C97C8B;border-radius:8px;">
+
+Complete the look with hydrated lips.
+
+**Simple Three-Step Method**
+
+1. Define lips using a neutral lip liner.
+2. Apply a creamy lipstick.
+3. Dab clear or tinted gloss onto the center of the lips.
+
+This technique creates fullness while keeping the look elegant and wearable.
 
 </div>
+
+---
+
+## Professional Tips
+
+<div style="background:#FAF1F3;padding:18px;border-left:4px solid #C97C8B;border-radius:8px;">
+
+| Technique | Benefit |
+|-----------|---------|
+| Use cream products | Creates a natural summer finish |
+| Blend using fingers | Produces softer transitions |
+| Build color gradually | Prevents heavy-looking makeup |
+| Apply makeup in natural light | Improves color accuracy |
+| Finish with setting spray | Extends makeup wear |
+
+</div>
+
+---
+
+## Common Mistakes to Avoid
+
+<div style="background:#FDF6F8;padding:18px;border-left:4px solid #C97C8B;border-radius:8px;">
+
+Avoid these common mistakes when recreating runway-inspired makeup:
+
+- Applying too much foundation.
+- Over-powdering the skin.
+- Using harsh contour lines.
+- Choosing overly matte lip products.
+- Skipping skincare before makeup.
+- Using too many bold colors at once.
+
+Remember that runway beauty today is centered around balance and simplicity rather than dramatic transformation.
+
+</div>
+
+---
+## Expert Tips for Long-Lasting Summer Makeup
+
+<div style="background:#FAF1F3;padding:18px;border-left:4px solid #C97C8B;border-radius:8px;">
+
+The difference between a runway-inspired look that lasts all day and one that fades within hours often comes down to application techniques rather than the products themselves.
+
+| Expert Tip | Why It Works |
+|------------|--------------|
+| Prep your skin with hydration | Creates a smooth base and prevents makeup from looking dry. |
+| Choose cream-based formulas | They blend naturally into the skin and maintain a fresh finish. |
+| Build products gradually | Thin layers look more natural and last longer than heavy application. |
+| Blend in natural light | Helps avoid harsh edges and uneven color placement. |
+| Use setting spray instead of heavy powder | Locks makeup in place while preserving a healthy glow. |
+| Carry blotting papers | Remove excess oil without disturbing your makeup. |
+
+</div>
+
+---
+
+### Professional Advice
+
+<div style="background:#FDF6F8;padding:18px;border-left:4px solid #C97C8B;border-radius:8px;">
+
+Keep these professional recommendations in mind when recreating runway beauty:
+
+- Prioritize skincare before applying makeup.
+- Allow each skincare product to absorb before moving to the next step.
+- Use fingers for cream products whenever possible to achieve softer blending.
+- Keep one feature as the focus instead of emphasizing every part of the face.
+- Refresh your look during the day with facial mist rather than adding more makeup.
+
+Small adjustments often create the most sophisticated results.
+
+</div>
+
+---
+
+## Frequently Asked Questions
+
+### Can runway makeup be worn every day?
+
+Yes. Most runway trends are designed to inspire rather than be copied exactly. Softer colors and lighter application make them perfect for everyday wear.
+
+---
+
+### Which runway trend is easiest for beginners?
+
+Glazed skin is the easiest trend to recreate because it focuses on skincare, hydration, and lightweight complexion products instead of advanced makeup techniques.
+
+---
+
+### How can I make summer makeup last longer?
+
+Use lightweight skincare, apply thin layers of makeup, finish with a setting spray, and remove excess oil using blotting papers instead of adding more powder.
+
+---
+
+### Are cream products better than powder products in summer?
+
+Cream products generally provide a fresher finish and blend more naturally during warmer weather, making them ideal for achieving current runway-inspired looks.
+
+---
+
+### Do I need luxury makeup products to recreate these trends?
+
+No. Proper application techniques have a greater impact than product price. Many affordable products can create similar results when used correctly.
+
+---
+
+## Key Takeaways
+
+- Healthy, hydrated skin is the foundation of every runway-inspired makeup look.
+- Lightweight complexion products create a fresh, modern finish.
+- Cream blush and highlighter help achieve natural-looking radiance.
+- Soft eye makeup and glossy lips remain key Summer 2025 beauty trends.
+- Proper skincare preparation improves both appearance and wear time.
+- Adapt runway inspiration to complement your own style and features.
+
+---
+
+## Conclusion
+
+Summer runway beauty is all about enhancing natural features with fresh skin, lightweight textures, and effortless color. Rather than following every trend exactly, focus on incorporating the techniques that suit your complexion, lifestyle, and personal preferences.
+
+Looking for more beauty inspiration? Continue exploring our guides on **[Advanced Contouring Techniques](../5/index.md)** and **[Top Vitamin C Serums Compared](../6/index.md)** to build a complete makeup and skincare routine that complements these runway-inspired looks.
+
+---
+
+
