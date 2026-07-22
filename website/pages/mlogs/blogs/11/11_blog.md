@@ -21,14 +21,15 @@ In this guide you'll learn:
 
 ## Table of Contents
 
-- [Why Sustainable Beauty Matters](#why-sustainable-beauty-matters)
-- [Understanding Sustainable Beauty](#understanding-sustainable-beauty)
-- [Expert Insights](#expert-insights)
-- [Sustainable Product Categories](#sustainable-product-categories)
-- [Building a Sustainable Routine](#building-a-sustainable-routine)
-- [Professional Tips](#professional-tips)
-- [Frequently Asked Questions](#frequently-asked-questions)
-- [Final Thoughts](#final-thoughts)
+- Why Sustainable Beauty Matters
+- Understanding Sustainable Beauty
+- Expert Insights
+- Sustainable Product Categories
+- Building a Sustainable Routine
+- Professional Tips
+- Key Takeaways
+- Frequently Asked Questions
+- Conclusion
 
 ---
 
@@ -45,10 +46,10 @@ Choosing sustainable beauty products helps you:
 - Minimize exposure to unnecessary ingredients.
 - Encourage environmentally responsible innovation.
 - Create a beauty routine that's better for future generations.
-
+  
 <div align="center">
 
-![Sustainable Beauty](images/mlog11_why_sustainable_beauty.jpg)
+![Sustainable Beauty](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/11/images/mlog11_why_sustainable_beauty.jpg)
 
 *Making conscious beauty choices helps protect both your skin and the environment.*
 
@@ -95,14 +96,6 @@ Choosing sustainable alternatives becomes much easier once you understand the di
 
 ### 1. Sustainable Cleansers & Skincare
 
-<div align="center">
-
-![Sustainable Cleansers](images/mlog11_cleansers.jpg)
-
-*Refillable skincare and solid cleansers reduce packaging waste while maintaining excellent performance.*
-
-</div>
-
 | Product Type | Recommended Option | Benefits |
 |--------------|-------------------|----------|
 | Solid Cleanser | Ethique Bliss Bar | Plastic-free, travel friendly, long lasting |
@@ -116,14 +109,6 @@ Choosing sustainable alternatives becomes much easier once you understand the di
 
 ### 2. Sustainable Makeup
 
-<div align="center">
-
-![Sustainable Makeup](images/mlog11_makeup.jpg)
-
-*Refillable makeup products combine premium performance with environmentally conscious packaging.*
-
-</div>
-
 | Product | Sustainable Alternative | Why It Matters |
 |---------|-------------------------|----------------|
 | Foundation | Refillable compact systems | Less packaging waste |
@@ -131,10 +116,11 @@ Choosing sustainable alternatives becomes much easier once you understand the di
 | Lip Products | Compostable packaging | Reduces landfill waste |
 | Cream Blush | Multi-purpose products | One product replaces several |
 
-Multi-use products deserve special attention because they reduce both packaging waste and unnecessary purchases. A cream stick that works on cheeks, lips and eyes replaces several separate products.
+Refillable makeup products reduce packaging waste without compromising quality or performance. Many premium brands now offer refillable compacts, reusable lipstick cases, and durable mascara packaging that significantly lowers single-use plastic consumption over time.
 
-If you're simplifying your makeup collection, our [5-Minute Everyday Makeup Tutorial](../9/index.md) shows how a small number of versatile products can create a polished everyday look.
+When shopping for sustainable makeup, prioritize refillable packaging, recyclable materials, and brands with transparent manufacturing practices. These choices help reduce waste while extending the life of your favourite beauty products.
 
+If you're simplifying your makeup collection, our [5-Minute Everyday Makeup Tutorial](../9/index.md) shows how a small selection of carefully chosen products can create polished everyday looks.
 ---
 
 ### 3. Sustainable Sun Protection
@@ -152,25 +138,17 @@ Look for sunscreens that use mineral UV filters and reef-safe formulations whene
 
 ### 4. Multi-Purpose Beauty Products
 
-<div align="center">
+Products that serve multiple purposes are one of the easiest ways to build a more sustainable beauty routine. By replacing several single-use items with one versatile product, you reduce packaging waste, simplify your collection, and save money over time.
 
-![Multi Purpose Products](images/mlog11_multi_products.jpg)
-
-*Multi-use beauty products reduce clutter, packaging waste and unnecessary consumption.*
-
-</div>
-
-Products designed for multiple purposes help reduce overconsumption.
-
-Examples include:
+Popular examples include:
 
 - Cream blushes that double as lip colour.
-- Multi-purpose beauty sticks.
-- Hair oils suitable for scalp and ends.
-- Universal moisturizers for face and body.
+- Multi-purpose beauty sticks for cheeks, lips and eyes.
+- Hair oils suitable for both the scalp and hair ends.
+- Universal moisturizers for the face and body.
 - Cleansing balms that remove makeup while cleansing.
 
-Using fewer, higher-quality products is often both more economical and more sustainable.
+Besides reducing waste, multi-purpose products make travelling easier, minimize clutter, and encourage more intentional purchasing habits. Investing in fewer, higher-quality products is often both more economical and more environmentally responsible.
 
 ---
 
@@ -203,15 +181,6 @@ Before purchasing new products, take inventory of what you already own.
 - Identify products you use every day.
 - Notice which items create the most packaging waste.
 - Avoid throwing away usable products simply to buy sustainable alternatives.
-
-<div align="center">
-
-![Beauty Routine Assessment](images/mlog11_imag2.jpg)
-
-*Understanding your current routine helps you make smarter, more sustainable purchasing decisions.*
-
-</div>
-
 ---
 
 ### Step 2: Choose Better Alternatives
@@ -238,7 +207,7 @@ Reliable certifications include:
 
 <div align="center">
 
-![Choosing Sustainable Products](images/mlog11_image3.jpg)
+![Choosing Sustainable Products](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/11/images/mlog11_image3.jpg)
 
 *Trusted certifications make it easier to identify genuinely sustainable beauty products.*
 
@@ -277,7 +246,7 @@ Simple changes include:
 
 <div align="center">
 
-![Sustainable Beauty Routine](images/mlog11_image4.jpg)
+![Sustainable Beauty Routine](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/11/images/mlog11_image4.jpg)
 
 *Small daily habits create long-term environmental benefits.*
 
