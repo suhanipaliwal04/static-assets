@@ -388,8 +388,6 @@ No skincare routine is complete without sunscreen.
 
 ✔ Don't forget your neck, ears, and hands.
 
-For a complete guide to summer skincare protection, read:
-
 For a complete summer skincare routine, continue with our guide
 [10 Must-Have Summer Skincare Products](https://melsta.studio/mlogs/10-must-have-summer-skincare-products).
 </div>
@@ -397,7 +395,7 @@ For a complete summer skincare routine, continue with our guide
 </div>
 
 ---
-```
+
 ## How to Apply Each Step Correctly
 
 <div style="background:#FAF1F3;padding:24px;border-radius:14px;border:1px solid #EBCFD6;">
