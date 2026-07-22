@@ -155,44 +155,7 @@ One slow pass causes less damage than multiple quick passes.
 </div>
 
 ---
-## 3. Curling Wand & Curling Iron
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/8/images/mlog8_curling_wand.jpg" alt="Professional Curling Wand" style="max-width:100%;border-radius:12px;">
-
-*Create everything from soft beach waves to defined curls with the right barrel size.*
-
-</div>
-
-<div style="background:#FFFFFF;border:1px solid #E6DDD4;padding:20px;border-radius:10px;">
-
-### Best Uses
-
-- Beach waves
-- Hollywood curls
-- Tight ringlets
-- Face-framing curls
-
-### Choosing the Right Barrel
-
-| Barrel Size | Style Created |
-|-------------|---------------|
-| 0.75 inch | Tight curls |
-| 1 inch | Classic curls |
-| 1.25 inch | Loose curls |
-| 1.5 inch | Beach waves |
-| 2 inch | Soft bends |
-
-### Professional Tip
-
-Wrap hair away from the face for a softer, more modern finish and allow curls to cool completely before brushing them.
-
-</div>
-
----
-
-## 4. Round Brush & Paddle Brush
+## 3. Round Brush & Paddle Brush
 
 <div align="center">
 
@@ -239,7 +202,7 @@ Choose a larger round brush for longer hair and a smaller brush for shorter styl
 
 ---
 
-## 5. Rollers, Diffusers & Blow Dry Brushes
+## 4. Rollers, Diffusers & Blow Dry Brushes
 
 <div align="center">
 
