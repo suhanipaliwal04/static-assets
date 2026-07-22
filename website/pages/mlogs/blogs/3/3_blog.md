@@ -2,6 +2,10 @@
 
 > *Your complete guide to choosing a luxury foundation that complements your skin type, enhances your natural beauty, and delivers a flawless finish every day.*
 
+## Quick Summary
+
+Choosing the right luxury foundation depends on your skin type, preferred finish, coverage needs, and daily routine. This guide compares premium foundations for oily, dry, combination, and sensitive skin, along with professional application techniques and expert recommendations to help you achieve a flawless, long-lasting complexion.
+
 ---
 
 <div align="center">
@@ -137,15 +141,17 @@ Oily and acne-prone skin benefits from foundations that offer long-lasting cover
 
 ## Estée Lauder Double Wear Stay-in-Place Foundation
 
+<div style="background:#FFFFFF;padding:20px;border-radius:12px;border:1px solid #EBCFD6;margin:24px 0;">
+
 <div align="center">
 
-![Estée Lauder Foundation](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/3/images/blog3_img3.avif)
+![Estée Lauder Foundation](...)
 
 *Estée Lauder Double Wear remains one of the most trusted luxury foundations among professional makeup artists.*
 
 </div>
 
-<div style="background:#FFFFFF;padding:22px;border-radius:12px;border-left:4px solid #C97C8B;">
+</div>
 
 **Coverage:** Full, Buildable
 
@@ -173,6 +179,8 @@ Oily and acne-prone skin benefits from foundations that offer long-lasting cover
 
 ## Dior Forever Matte Foundation
 
+<div style="background:#FFFFFF;padding:20px;border-radius:12px;border:1px solid #EBCFD6;margin:24px 0;">
+
 <div align="center">
 
 ![Dior Foundation](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/3/images/mlog3_dior.jpg)
@@ -181,8 +189,7 @@ Oily and acne-prone skin benefits from foundations that offer long-lasting cover
 
 </div>
 
-<div style="background:#FFFFFF;padding:22px;border-radius:12px;border-left:4px solid #C97C8B;">
-
+</div>
 **Coverage:** Medium to Full
 
 **Finish:** Natural Matte
@@ -206,6 +213,8 @@ Oily and acne-prone skin benefits from foundations that offer long-lasting cover
 
 ## Armani Power Fabric+ Foundation
 
+<div style="background:#FFFFFF;padding:20px;border-radius:12px;border:1px solid #EBCFD6;margin:24px 0;">
+
 <div align="center">
 
 ![Armani Foundation](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/3/images/nlog3_armani.avif)
@@ -214,7 +223,7 @@ Oily and acne-prone skin benefits from foundations that offer long-lasting cover
 
 </div>
 
-<div style="background:#FFFFFF;padding:22px;border-radius:12px;border-left:4px solid #C97C8B;">
+</div>
 
 **Coverage:** Buildable Full
 
@@ -250,6 +259,8 @@ Dry skin requires nourishing formulas that provide hydration while enhancing the
 
 ## La Mer Soft Fluid Long Wear Foundation
 
+<div style="background:#FFFFFF;padding:20px;border-radius:12px;border:1px solid #EBCFD6;margin:24px 0;">
+
 <div align="center">
 
 ![La Mer Foundation](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/3/images/mlog3_la_mer2.jpg)
@@ -258,7 +269,7 @@ Dry skin requires nourishing formulas that provide hydration while enhancing the
 
 </div>
 
-<div style="background:#FFFFFF;padding:22px;border-radius:12px;border-left:4px solid #C97C8B;">
+</div>
 
 **Coverage:** Light to Medium
 
@@ -282,6 +293,7 @@ Dry skin requires nourishing formulas that provide hydration while enhancing the
 ---
 
 ## Giorgio Armani Luminous Silk Foundation
+<div style="background:#FFFFFF;padding:20px;border-radius:12px;border:1px solid #EBCFD6;margin:24px 0;">
 
 <div align="center">
 
@@ -291,8 +303,7 @@ Dry skin requires nourishing formulas that provide hydration while enhancing the
 
 </div>
 
-<div style="background:#FFFFFF;padding:22px;border-radius:12px;border-left:4px solid #C97C8B;">
-
+</div>
 **Coverage:** Light to Medium
 
 **Finish:** Radiant
@@ -316,6 +327,8 @@ Dry skin requires nourishing formulas that provide hydration while enhancing the
 
 ## Clé de Peau Radiant Fluid Foundation Natural
 
+<div style="background:#FFFFFF;padding:20px;border-radius:12px;border:1px solid #EBCFD6;margin:24px 0;">
+
 <div align="center">
 
 ![Clé de Peau Foundation](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/3/images/mlog3_peau.avif)
@@ -324,7 +337,7 @@ Dry skin requires nourishing formulas that provide hydration while enhancing the
 
 </div>
 
-<div style="background:#FFFFFF;padding:22px;border-radius:12px;border-left:4px solid #C97C8B;">
+</div>
 
 **Coverage:** Light to Medium
 
@@ -358,6 +371,8 @@ Combination skin requires balance. The ideal luxury foundation should reduce exc
 
 ## Chanel Les Beiges Healthy Glow Foundation
 
+<div style="background:#FFFFFF;padding:20px;border-radius:12px;border:1px solid #EBCFD6;margin:24px 0;">
+
 <div align="center">
 
 ![Chanel Foundation](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/3/images/mlog3_les_beiges.jpg)
@@ -366,7 +381,7 @@ Combination skin requires balance. The ideal luxury foundation should reduce exc
 
 </div>
 
-<div style="background:#FFFFFF;padding:22px;border-radius:12px;border-left:4px solid #C97C8B;">
+</div>
 
 **Coverage:** Light to Medium
 
@@ -391,6 +406,8 @@ Combination skin requires balance. The ideal luxury foundation should reduce exc
 
 ## Pat McGrath Skin Fetish Sublime Perfection Foundation
 
+<div style="background:#FFFFFF;padding:20px;border-radius:12px;border:1px solid #EBCFD6;margin:24px 0;">
+
 <div align="center">
 
 ![Pat McGrath Foundation](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/3/images/mlog3_pat_mcgrath.jpg)
@@ -399,7 +416,7 @@ Combination skin requires balance. The ideal luxury foundation should reduce exc
 
 </div>
 
-<div style="background:#FFFFFF;padding:22px;border-radius:12px;border-left:4px solid #C97C8B;">
+</div>
 
 **Coverage:** Buildable
 
@@ -435,6 +452,8 @@ Sensitive skin deserves formulas that combine comfort with reliable performance.
 
 ## Sisley Phyto-Teint Nude Foundation
 
+<div style="background:#FFFFFF;padding:20px;border-radius:12px;border:1px solid #EBCFD6;margin:24px 0;">
+
 <div align="center">
 
 ![Sisley Foundation](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/3/images/mlog3_phyto_lint.jpg)
@@ -443,7 +462,7 @@ Sensitive skin deserves formulas that combine comfort with reliable performance.
 
 </div>
 
-<div style="background:#FFFFFF;padding:22px;border-radius:12px;border-left:4px solid #C97C8B;">
+</div>
 
 **Coverage:** Light to Medium
 
@@ -468,6 +487,8 @@ Sensitive skin deserves formulas that combine comfort with reliable performance.
 
 ## Lancôme Teint Idole Ultra Wear Care & Glow
 
+<div style="background:#FFFFFF;padding:20px;border-radius:12px;border:1px solid #EBCFD6;margin:24px 0;">
+
 <div align="center">
 
 ![Lancôme Foundation](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/3/images/mlog3_lancome.jpg)
@@ -476,7 +497,7 @@ Sensitive skin deserves formulas that combine comfort with reliable performance.
 
 </div>
 
-<div style="background:#FFFFFF;padding:22px;border-radius:12px;border-left:4px solid #C97C8B;">
+</div>
 
 **Coverage:** Medium to Full
 
@@ -650,19 +671,8 @@ Healthy skin creates the perfect canvas for luxury makeup. Continue exploring mo
 
 ### Related Articles
 
-**10 Must-Have Summer Skincare Products**
-
-https://melsta.studio/mlogs/10-must-have-summer-skincare-products
-
----
-
-**Korean Beauty Secrets: 10-Step Skincare Routine**
-
-https://melsta.studio/mlogs/korean-beauty-secrets-10-step-skincare-routine
-
-These skincare guides complement the luxury foundations featured in this article and can help improve makeup application, longevity, and overall skin health.
-
-</div>
+- [10 Must-Have Summer Skincare Products](https://melsta.studio/mlogs/10-must-have-summer-skincare-products)
+- [Korean Beauty Secrets: 10-Step Skincare Routine](https://melsta.studio/mlogs/korean-beauty-secrets-10-step-skincare-routine)
 
 ---
 
