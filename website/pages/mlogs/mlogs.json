@@ -266,6 +266,34 @@
   },
   "excerpt": "Discover the Skinimalism trend and learn how a simple cleanser, ceramide-rich moisturizer, and sunscreen can strengthen your skin barrier for healthier, naturally radiant skin.",
   "relatedPosts": ["10", "11", "12"]
+},
+{
+  "id": "14",
+  "title": "Personal Colour Analysis: The Korean Beauty Trend Everyone Is Talking About",
+  "thumbnailUrl": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/14/images/14_thumbnail.avif",
+  "searchKeywords": [
+    "personal colour analysis",
+    "korean beauty trend",
+    "colour analysis",
+    "fashion styling",
+    "makeup colours",
+    "seasonal colour palette"
+  ],
+  "author": "Melsta",
+  "authorProfilePic": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/authors/sarah-johnson.avif",
+  "lastUpdatedAt": "2026-07-23T14:30:00Z",
+  "blogContent": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/14/14_blog.md",
+  "readingTime": 8,
+  "category": {
+    "main": "beauty-trends",
+    "sub": "Social Media Trends"
+  },
+  "excerpt": "Discover the Korean personal colour analysis trend and learn how to identify your undertone, seasonal colour palette, and the best shades for fashion and makeup.",
+  "relatedPosts": [
+    "12",
+    "13",
+    "7"
+  ]
 }
   ]
 }
