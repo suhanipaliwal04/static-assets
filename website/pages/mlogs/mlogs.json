@@ -240,6 +240,32 @@
     "7",
     "11"
   ]
+},
+{
+  "id": "13",
+  "title": "Skinimalism & The Barrier Repair Revival: Why Less Is More for Healthy Skin",
+  "thumbnailUrl": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/13/images/13_thumbnail.avif",
+  "searchKeywords": [
+    "skinimalism",
+    "barrier repair",
+    "skin barrier",
+    "minimal skincare",
+    "ceramides",
+    "hyaluronic acid",
+    "healthy skin",
+    "simple skincare routine"
+  ],
+  "author": "Melsta",
+  "authorProfilePic": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/authors/sarah-johnson.avif",
+  "lastUpdatedAt": "2026-07-23T14:00:00Z",
+  "blogContent": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/13/13_blog.md",
+  "readingTime": 7,
+  "category": {
+    "main": "beauty-trends",
+    "sub": "Skincare Routines"
+  },
+  "excerpt": "Discover the Skinimalism trend and learn how a simple cleanser, ceramide-rich moisturizer, and sunscreen can strengthen your skin barrier for healthier, naturally radiant skin.",
+  "relatedPosts": ["10", "11", "12"]
 }
   ]
 }
