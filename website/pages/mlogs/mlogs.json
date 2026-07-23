@@ -215,6 +215,31 @@
       },
       "excerpt": "Your comprehensive guide to sustainable and eco-friendly beauty products that don't compromise on quality.",
       "relatedPosts": ["6", "8"]
-    }
+    },
+    {
+  "id": "12",
+  "title": "Colour Drenching: The Interior & Fashion Trend Everyone Is Talking About",
+  "thumbnailUrl": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/12/images/12_thumbnail.avif?v=refresh2026",
+  "searchKeywords": [
+    "colour drenching",
+    "monochromatic fashion",
+    "fashion trends",
+    "style guide"
+  ],
+  "author": "Melsta",
+  "authorProfilePic": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/authors/sarah-johnson.avif",
+  "lastUpdatedAt": "2026-07-23T13:17:00Z",
+  "blogContent": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/12/12_blog.md",
+  "readingTime": 8,
+  "category": {
+    "main": "beauty-trends",
+    "sub": "Fashion Trends"
+  },
+  "excerpt": "Explore the Colour Drenching trend taking over fashion and beauty. Learn how to style monochromatic outfits, accessories, and makeup step by step for everyday wear and special occasions.",
+  "relatedPosts": [
+    "7",
+    "11"
+  ]
+}
   ]
 }
