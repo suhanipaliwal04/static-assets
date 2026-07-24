@@ -294,6 +294,61 @@
     "13",
     "7"
   ]
+},
+{
+  "id": "15",
+  "title": "Microbiome Skincare: The Next Big Beauty Revolution",
+  "thumbnailUrl": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/15/images/15_thumbnail.avif",
+  "searchKeywords": [
+    "skin microbiome",
+    "microbiome skincare",
+    "skin barrier",
+    "gentle skincare",
+    "healthy skin"
+  ],
+  "author": "Melsta",
+  "authorProfilePic": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/authors/sarah-johnson.avif",
+  "lastUpdatedAt": "2026-07-23T15:00:00Z",
+  "blogContent": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/15/15_blog.md",
+  "readingTime": 8,
+  "category": {
+    "main": "beauty-trends",
+    "sub": "Skincare Routines"
+  },
+  "excerpt": "Discover microbiome skincare and learn how supporting your skin's natural ecosystem with gentle routines and barrier-friendly ingredients can improve overall skin health.",
+  "relatedPosts": [
+    "13",
+    "10",
+    "11"
+  ]
+},
+{
+  "id": "16",
+  "title": "Quiet Luxury Fashion: The Timeless Style Trend Redefining Modern Looks",
+  "thumbnailUrl": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/16/images/16_thumbnail.avif",
+  "searchKeywords": [
+    "quiet luxury",
+    "fashion trends",
+    "minimal fashion",
+    "luxury styling",
+    "timeless fashion",
+    "style guide"
+  ],
+  "author": "Melsta",
+  "authorProfilePic": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/authors/sarah-johnson.avif",
+  "lastUpdatedAt": "2026-07-23T15:10:00Z",
+  "blogContent": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/16/16_blog.md",
+  "readingTime": 8,
+  "category": {
+    "main": "beauty-trends",
+    "sub": "Fashion Trends"
+  },
+  "excerpt": "Explore the quiet luxury fashion trend and learn how timeless pieces, neutral colours, refined styling, and minimal details can create an elegant everyday look.",
+  "relatedPosts": [
+    "12",
+    "14",
+    "13"
+  ]
 }
   ]
 }
