@@ -72,7 +72,7 @@ Unlike the old belief that all bacteria are harmful, modern skincare research sh
 
 ---
 
-![Skin Microbiome Guide](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/15/images/skin-microbiome-guide.png)
+![Skin Microbiome Guide](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/15/images/mlog15_img1.png)
 
 ---
 
@@ -248,7 +248,7 @@ Probiotic skincare contains ingredients derived from beneficial microorganisms t
 
 ---
 
-![Microbiome Friendly Ingredients](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/15/images/microbiome-friendly-ingredients.png)
+![Microbiome Friendly Ingredients](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/15/images/mlog15_img2.png)
 
 ---
 

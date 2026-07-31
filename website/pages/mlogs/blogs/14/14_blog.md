@@ -54,10 +54,6 @@ In this guide, you'll learn how Korean personal colour analysis works, how to id
 
 ---
 
-![Personal Colour Analysis Consultation](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/14/images/personal-colour-analysis-hero.png)
-
----
-
 # Why Personal Colour Analysis Became Popular
 
 <div style="background:#FAF1F3;border-left:5px solid #C97C8B;padding:24px;border-radius:12px;">
@@ -155,7 +151,7 @@ Understanding whether you have a warm or cool undertone helps you choose colours
 
 </div>
 
-![Warm vs Cool Undertone Guide](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/14/images/warm-vs-cool-undertone.png)
+![Warm vs Cool Undertone Guide](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/14/images/mlog14_img2.png)
 
 ---
 
@@ -257,7 +253,7 @@ Your seasonal palette helps identify the colours that create the most harmony wi
 
 ---
 
-![Seasonal Colour Palette](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/14/images/seasonal-colour-palette.png)
+![Seasonal Colour Palette](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/14/images/mlog14_img3.png)
 
 ---
 
@@ -476,7 +472,7 @@ The right shades can:
 
 ---
 
-![Makeup and Fashion Colour Matching](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/14/images/makeup-fashion-colour-match.png)
+![Makeup and Fashion Colour Matching](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/14/images/mlog14_img1.png)
 
 ---
 

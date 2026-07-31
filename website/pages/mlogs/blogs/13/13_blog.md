@@ -68,7 +68,7 @@ For many people, this means spending less time applying products while achieving
 
 ---
 
-![Skinimalism](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/13/images/skinimalism-hero.png)
+![Skinimalism](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/13/images/mlog13_img1.png)
 
 ---
 
@@ -217,7 +217,7 @@ Build your complete daytime routine here:
 
 ---
 
-![Simple Skinimalism Routine](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/13/images/simple-skincare-routine.png)
+![Simple Skinimalism Routine](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/13/images/mlog13_img2.png)
 
 ---
 
@@ -324,7 +324,7 @@ Using your products in the correct order allows each one to work effectively whi
 </div>
 
 ---
-![Healthy Skin Results](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/13/images/healthy-skin-results.png)
+![Healthy Skin Results](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/13/images/mlog13_img4.png)
 
 ---
 

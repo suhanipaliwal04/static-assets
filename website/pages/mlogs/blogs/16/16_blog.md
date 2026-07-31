@@ -14,7 +14,7 @@ This style focuses on timeless pieces, neutral colour palettes, quality fabrics,
 
 In this guide, you'll discover what quiet luxury means, how to build the look, choose the right colours, style outfits for different occasions, and combine fashion with hair and makeup for a complete elevated appearance.
 
-![Quiet Luxury Fashion](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/16/images/quiet-luxury-hero.png)
+![Quiet Luxury Fashion](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/16/images/mlog16_img1.png)
 
 </div>
 
@@ -212,7 +212,7 @@ Instead of relying on bright seasonal shades, this aesthetic focuses on timeless
 
 </div>
 
-![Quiet Luxury Colour Palette](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/16/images/quiet-luxury-colour-palette.png)
+![Quiet Luxury Colour Palette](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/16/images/mlog16_img2.png)
 
 ---
 
@@ -244,7 +244,7 @@ Discover how personal colour matching works:
 </div>
 
 ---
-![Quiet Luxury Outfit Guide](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/16/images/quiet-luxury-outfit-guide.png)
+![Quiet Luxury Outfit Guide](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/16/images/mlog16_img3.png)
 
 # How To Create A Quiet Luxury Look Step By Step
 
@@ -300,7 +300,7 @@ Silk blouse + elegant jewellery + neutral heels
 
 ---
 
-![Quiet Luxury Accessories](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/16/images/quiet-luxury-accessories.png)
+![Quiet Luxury Accessories](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/16/images/mlog16_img4.png)
 
 ## Step 3: Choose Minimal Accessories
 
