@@ -61,7 +61,7 @@ Choosing the right formula isn't about buying the most expensive product—it's 
 
 <div align="center">
 
-![Foundation Review Process](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/3/images/blog3_fnd2.jpg)
+![Foundation Review Process](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/3/images/mlog3_img1.jpg)
 
 *Finding your perfect foundation starts with understanding your skin.*
 
@@ -183,7 +183,7 @@ Oily and acne-prone skin benefits from foundations that offer long-lasting cover
 
 <div align="center">
 
-![Dior Foundation](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/3/images/mlog3_dior.jpg)
+![Dior Foundation](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/3/images/mlog3_img2.jpg)
 
 *Dior Forever Matte combines lightweight comfort with impressive staying power.*
 
@@ -217,7 +217,7 @@ Oily and acne-prone skin benefits from foundations that offer long-lasting cover
 
 <div align="center">
 
-![Armani Foundation](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/3/images/nlog3_armani.avif)
+![Armani Foundation](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/3/images/mlog3_img3.avif)
 
 *Armani Power Fabric+ delivers a polished complexion while remaining breathable on the skin.*
 
@@ -263,7 +263,7 @@ Dry skin requires nourishing formulas that provide hydration while enhancing the
 
 <div align="center">
 
-![La Mer Foundation](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/3/images/mlog3_la_mer2.jpg)
+![La Mer Foundation](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/3/images/mlog3_img4.jpg)
 
 *La Mer's luxurious formula delivers hydration together with refined, natural coverage.*
 
@@ -297,7 +297,7 @@ Dry skin requires nourishing formulas that provide hydration while enhancing the
 
 <div align="center">
 
-![Giorgio Armani Foundation](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/3/images/mlog3_armani_dry.jpg)
+![Giorgio Armani Foundation](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/3/images/mlog3_img5.jpg)
 
 *One of the industry's most celebrated luxury foundations for achieving naturally radiant skin.*
 
@@ -331,7 +331,7 @@ Dry skin requires nourishing formulas that provide hydration while enhancing the
 
 <div align="center">
 
-![Clé de Peau Foundation](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/3/images/mlog3_peau.avif)
+![Clé de Peau Foundation](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/3/images/mlog3_img6.avif)
 
 *Clé de Peau offers a refined satin finish with exceptional comfort.*
 
@@ -375,7 +375,7 @@ Combination skin requires balance. The ideal luxury foundation should reduce exc
 
 <div align="center">
 
-![Chanel Foundation](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/3/images/mlog3_les_beiges.jpg)
+![Chanel Foundation](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/3/images/mlog3_img7.jpg)
 
 *Chanel Les Beiges delivers lightweight coverage with a naturally radiant finish.*
 
@@ -410,7 +410,7 @@ Combination skin requires balance. The ideal luxury foundation should reduce exc
 
 <div align="center">
 
-![Pat McGrath Foundation](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/3/images/mlog3_pat_mcgrath.jpg)
+![Pat McGrath Foundation](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/3/images/mlog3_img8.jpg)
 
 *Pat McGrath's lightweight formula creates a refined, skin-like finish suitable for professional makeup.*
 
@@ -456,7 +456,7 @@ Sensitive skin deserves formulas that combine comfort with reliable performance.
 
 <div align="center">
 
-![Sisley Foundation](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/3/images/mlog3_phyto_lint.jpg)
+![Sisley Foundation](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/3/images/mlog3_img9.jpg)
 
 *Sisley Phyto-Teint Nude provides lightweight coverage with exceptional comfort.*
 
@@ -491,7 +491,7 @@ Sensitive skin deserves formulas that combine comfort with reliable performance.
 
 <div align="center">
 
-![Lancôme Foundation](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/3/images/mlog3_lancome.jpg)
+![Lancôme Foundation](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/3/images/mlog3_img10.jpg)
 
 *Lancôme combines skincare-inspired ingredients with dependable long-lasting coverage.*
 
