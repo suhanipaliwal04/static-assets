@@ -132,7 +132,7 @@ Each celebrity interpreted the 2025 Met Gala theme differently while maintaining
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/4/images/mlog4_lupita.jpg" alt="Lupita Nyong'o's Met Gala Look" style="max-width:100%;height:auto;border-radius:12px;">
+<img src="https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/4/images/mlog4_img2.jpg" alt="Lupita Nyong'o's Met Gala Look" style="max-width:100%;height:auto;border-radius:12px;">
 
 *Elegant bronze makeup paired with sculptural natural hair.*
 
@@ -160,7 +160,7 @@ Instead of relying on dramatic makeup, the look emphasized naturally glowing ski
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/4/images/mlog4_janelle.jpeg" alt="Janelle Monáe's Met Gala Look" style="max-width:100%;height:auto;border-radius:12px;">
+<img src="https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/4/images/mlog4_img4.jpg" alt="Janelle Monáe's Met Gala Look" style="max-width:100%;height:auto;border-radius:12px;">
 
 *Architectural braids paired with polished, modern makeup.*
 
@@ -187,7 +187,7 @@ The hairstyle became the artistic focal point while the makeup remained polished
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/4/images/mlog4_zendayaa.jpg" alt="Zendaya's Met Gala Look" style="max-width:100%;height:auto;border-radius:12px;">
+<img src="https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/4/images/mlog4_img5.jpg" alt="Zendaya's Met Gala Look" style="max-width:100%;height:auto;border-radius:12px;">
 
 *Classic glamour inspired by legendary beauty icons.*
 
@@ -215,7 +215,7 @@ Zendaya demonstrated that timeless beauty never goes out of style. Every element
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/4/images/mlog4_ayo.jpg" alt="Ayo Edebiri's Met Gala Look" style="max-width:100%;height:auto;border-radius:12px;">
+<img src="https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/4/images/mlog4_img6.jpg" alt="Ayo Edebiri's Met Gala Look" style="max-width:100%;height:auto;border-radius:12px;">
 
 *Fresh skin paired with subtle vintage inspiration.*
 
@@ -243,7 +243,7 @@ The look proved that understated makeup can be just as impactful as bold editori
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/4/images/mlog4_coleman.avif" alt="Colman Domingo's Met Gala Look" style="max-width:100%;height:auto;border-radius:12px;">
+<img src="https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/4/images/mlog4_img7.avif" alt="Colman Domingo's Met Gala Look" style="max-width:100%;height:auto;border-radius:12px;">
 
 *Elegant monochromatic styling complemented by impeccable grooming.*
 
@@ -425,7 +425,7 @@ Absolutely. Healthy, hydrated skin allows makeup to blend more smoothly and last
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/4/images/mlog4_final.jpg" alt="Celebrity Inspired Met Gala Beauty" style="max-width:100%;height:auto;border-radius:12px;">
+<img src="https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/4/images/mlog4_img8.jpg" alt="Celebrity Inspired Met Gala Beauty" style="max-width:100%;height:auto;border-radius:12px;">
 
 *Exceptional beauty is created through preparation, confidence, and attention to detail.*
 
