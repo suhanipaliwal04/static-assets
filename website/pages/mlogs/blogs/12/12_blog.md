@@ -131,7 +131,7 @@ Small styling choices create depth and prevent monochromatic outfits from lookin
 
 Building a monochromatic outfit is easier than it looks. Follow these simple steps to create a balanced and fashionable appearance.
 
-![Step-by-Step Guide](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/12/images/step-by-step-colour-drenching.png)
+![Step-by-Step Guide](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/12/images/mlog12_img1.png)
 ## 1. Choose Your Base Colour
 
 <div style="background:#FFFFFF;border:1px solid #EBCFD6;border-radius:12px;padding:24px;">
@@ -394,7 +394,7 @@ The key is to choose shades that suit both the occasion and your personal style.
 
 ---
 
-![Colour Drenching Outfit Ideas](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/12/images/colour-drenching-examples.png)
+![Colour Drenching Outfit Ideas](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/12/images/mlog12_img2.png)
 
 ---
 
