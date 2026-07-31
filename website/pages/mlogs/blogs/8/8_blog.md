@@ -88,7 +88,7 @@ According to **Melmua's professional hair stylists**, using expensive tools alon
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/8/images/mlog8_heat_styling.jpg" alt="Professional Hair Dryer" style="max-width:100%;border-radius:12px;">
+<img src="https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/8/images/mlog8_img4.jpg" alt="Professional Hair Dryer" style="max-width:100%;border-radius:12px;">
 
 *Fast drying with controlled airflow reduces styling time and minimizes heat damage.*
 
@@ -124,7 +124,7 @@ Always direct airflow downward along the hair shaft to reduce frizz and increase
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/8/images/mlog8_heat_styling.jpg" alt="Professional Flat Iron" style="max-width:100%;border-radius:12px;">
+<img src="https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/8/images/mlog8_img1.jpg" alt="Professional Flat Iron" style="max-width:100%;border-radius:12px;">
 
 *Modern ceramic flat irons can straighten, wave, and curl depending on your technique.*
 
@@ -155,11 +155,42 @@ One slow pass causes less damage than multiple quick passes.
 </div>
 
 ---
-## 3. Round Brush & Paddle Brush
+
+
+## 3. Curling Wand & Curling Iron
+
+<div style="background:#FFFFFF;border:1px solid #E6DDD4;padding:20px;border-radius:10px;">
+
+### Best Uses
+
+- Beach waves
+- Hollywood curls
+- Tight ringlets
+- Face-framing curls
+
+### Choosing the Right Barrel
+
+| Barrel Size | Style Created |
+|-------------|---------------|
+| 0.75 inch | Tight curls |
+| 1 inch | Classic curls |
+| 1.25 inch | Loose curls |
+| 1.5 inch | Beach waves |
+| 2 inch | Soft bends |
+
+### Professional Tip
+
+Wrap hair away from the face for a softer, more modern finish and allow curls to cool completely before brushing them.
+
+</div>
+
+---
+
+## 4. Round Brush & Paddle Brush
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/8/images/mlog8_mechanical_tools.jpg" alt="Hair Brushes" style="max-width:100%;border-radius:12px;">
+<img src="https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/8/images/mlog8_img2.jpg" alt="Hair Brushes" style="max-width:100%;border-radius:12px;">
 
 *Different brushes create different finishes—from smooth blowouts to maximum volume.*
 
@@ -202,11 +233,11 @@ Choose a larger round brush for longer hair and a smaller brush for shorter styl
 
 ---
 
-## 4. Rollers, Diffusers & Blow Dry Brushes
+## 5. Rollers, Diffusers & Blow Dry Brushes
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/8/images/mlog8_setting_tools.jpg" alt="Hair Styling Accessories" style="max-width:100%;border-radius:12px;">
+<img src="https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/8/images/mlog8_img3.jpg" alt="Hair Styling Accessories" style="max-width:100%;border-radius:12px;">
 
 *Supporting tools make styling easier while improving longevity and reducing heat exposure.*
 
@@ -471,3 +502,4 @@ Explore our related guides:
 Healthy hair starts with the right tools, proper technique, and consistent care. Build your styling routine gradually, invest in quality equipment, and always prioritize hair health over excessive heat. With the right approach, salon-worthy results can become part of your everyday routine.
 
 </div>
+
