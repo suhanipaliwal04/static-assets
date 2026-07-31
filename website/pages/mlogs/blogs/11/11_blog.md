@@ -49,7 +49,7 @@ Choosing sustainable beauty products helps you:
   
 <div align="center">
 
-![Sustainable Beauty](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/11/images/mlog11_why_sustainable_beauty.jpg)
+![Sustainable Beauty](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/11/images/mlog11_img1.jpg)
 
 *Making conscious beauty choices helps protect both your skin and the environment.*
 
@@ -207,7 +207,7 @@ Reliable certifications include:
 
 <div align="center">
 
-![Choosing Sustainable Products](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/11/images/mlog11_image3.jpg)
+![Choosing Sustainable Products](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/11/images/mlog11_img4.jpg)
 
 *Trusted certifications make it easier to identify genuinely sustainable beauty products.*
 
@@ -246,7 +246,7 @@ Simple changes include:
 
 <div align="center">
 
-![Sustainable Beauty Routine](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/11/images/mlog11_image4.jpg)
+![Sustainable Beauty Routine](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/11/images/mlog11_img5.jpg)
 
 *Small daily habits create long-term environmental benefits.*
 
