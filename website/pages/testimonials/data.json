@@ -1,16 +1,16 @@
 [
   {
     "id": 1,
-    "quote": "From my first trial to the final look, booking through Melsta felt effortless. My artist understood exactly the kind of soft glam I wanted.",
+    "quote": "Booking through Melsta was so easy. My artist understood the look I wanted right away, and I felt completely confident from start to finish.",
     "author": "Aanya Mehra",
-    "role": "Makeup Enthusiast",
+    "role": "Creative Professional",
     "rating": 5,
     "avatar": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/testimonials/avatars/avatar1.jpeg",
     "service": "booking"
   },
   {
     "id": 2,
-    "quote": "The consultation feature is genuinely useful. I got clear shade-match advice, pro product recommendations, and a routine that actually works for my clients.",
+    "quote": "The consultation gave me practical techniques and product recommendations that I now use regularly in my client work.",
     "author": "Ishita Kapoor",
     "role": "Professional MUA",
     "rating": 5,
@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-    "quote": "I booked an appointment in minutes and every update was smooth and professional. It took the usual stress out of finding the right artist.",
+    "quote": "Finding and booking the right artist was much easier than I expected. Everything felt smooth, professional, and well organised.",
     "author": "Rhea Nair",
     "role": "Regular Client",
     "rating": 5,
@@ -28,16 +28,16 @@
   },
   {
     "id": 4,
-    "quote": "My bridal makeup looked elegant, lasted through every ceremony, and still felt like me. I could not have asked for a better experience.",
+    "quote": "The artist perfectly understood the creative direction for our editorial shoot. The final look looked flawless both on camera and in person.",
     "author": "Kavya Malhotra",
-    "role": "Bride",
+    "role": "Editorial Model",
     "rating": 5,
     "avatar": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/testimonials/avatars/avatar4.jpeg",
     "service": "booking"
   },
   {
     "id": 5,
-    "quote": "As a working MUA, this platform brings me serious clients who value quality, creativity, and professionalism. It has been a great fit for my business.",
+    "quote": "Melsta has introduced me to clients who truly value quality and professionalism. It's become one of my favourite platforms to work through.",
     "author": "Sneha Bedi",
     "role": "Makeup Artist",
     "rating": 5,
@@ -46,7 +46,7 @@
   },
   {
     "id": 6,
-    "quote": "The reviews helped me book with total confidence. Every detail felt transparent, and the artist I chose absolutely delivered.",
+    "quote": "The reviews and artist profiles made choosing someone so much easier. I booked with confidence, and the experience exceeded my expectations.",
     "author": "Nandini Rao",
     "role": "Regular Client",
     "rating": 5,
@@ -55,7 +55,7 @@
   },
   {
     "id": 7,
-    "quote": "The styling support completely refreshed my look without making it feel forced. I feel more confident stepping into work and events now.",
+    "quote": "The styling advice helped me create a polished look for meetings, presentations, and everyday work. It boosted my confidence without feeling overdone.",
     "author": "Simran Arora",
     "role": "Marketing Executive",
     "rating": 5,
@@ -64,7 +64,7 @@
   },
   {
     "id": 8,
-    "quote": "I discovered products here that actually suit Indian skin tones and textures. My base looks smoother, fresher, and far more natural now.",
+    "quote": "I finally found products that actually suit my skin. The recommendations felt thoughtful, and they've become part of my daily routine.",
     "author": "Meher Sethi",
     "role": "Beauty Enthusiast",
     "rating": 5,
@@ -73,7 +73,7 @@
   },
   {
     "id": 9,
-    "quote": "The beauty consultation was thoughtful and practical. Instead of generic advice, I got recommendations that matched my skin, budget, and routine.",
+    "quote": "The consultation felt personal from the beginning. Every recommendation matched my skin, lifestyle, and the results I was hoping for.",
     "author": "Anika Deshpande",
     "role": "Entrepreneur",
     "rating": 5,
@@ -82,16 +82,16 @@
   },
   {
     "id": 10,
-    "quote": "I walked away from my consultation with techniques I still use every day. It felt like learning from a friend who just happens to be an expert.",
+    "quote": "I booked an artist for a professional photoshoot, and the result was exactly what I had envisioned. The look stayed natural while working beautifully on camera.",
     "author": "Tanvi Khanna",
-    "role": "Beauty Enthusiast",
+    "role": "Content Creator",
     "rating": 5,
     "avatar": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/testimonials/avatars/avatar10.jpeg",
-    "service": "consultations"
+    "service": "booking"
   },
   {
     "id": 11,
-    "quote": "The styling service helped me build a wardrobe that finally feels polished and personal. Getting dressed is so much easier now.",
+    "quote": "The styling sessions helped me build a wardrobe that feels polished and practical. Getting dressed has become much simpler.",
     "author": "Pooja Bansal",
     "role": "Entrepreneur",
     "rating": 5,
@@ -100,7 +100,7 @@
   },
   {
     "id": 12,
-    "quote": "Working with a stylist through the platform was one of the best decisions I have made this year. I feel put-together without overthinking every outfit.",
+    "quote": "Working with a stylist gave me a fresh perspective on my personal style. I now feel more confident without trying too hard.",
     "author": "Diya Iyer",
     "role": "Teacher",
     "rating": 5,
@@ -109,18 +109,18 @@
   },
   {
     "id": 13,
-    "quote": "The product recommendations were spot-on and the quality exceeded my expectations. I ended up repurchasing almost everything.",
+    "quote": "The product recommendations were exactly what I needed. I've reordered several of them because they worked so well for me.",
     "author": "Ritika Verma",
-    "role": "Student",
+    "role": "Design Student",
     "rating": 5,
     "avatar": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/testimonials/avatars/avatar13.jpeg",
     "service": "products"
   },
   {
     "id": 14,
-    "quote": "I found standout products I would never have discovered on my own. The curation feels premium, trustworthy, and genuinely useful.",
+    "quote": "I discovered products I would never have picked on my own. The selection feels carefully chosen, and I trust the recommendations every time.",
     "author": "Shreya Kulkarni",
-    "role": "Model",
+    "role": "Editorial Stylist",
     "rating": 5,
     "avatar": "https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/testimonials/avatars/avatar14.jpeg",
     "service": "products"
