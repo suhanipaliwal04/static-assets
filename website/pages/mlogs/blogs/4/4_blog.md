@@ -15,36 +15,21 @@ Every unforgettable red-carpet appearance begins with healthy skin, thoughtful s
 ---
 
 ## Quick Summary
-
-Looking to recreate celebrity-inspired Met Gala beauty?
-
-In this guide you'll discover:
-
-- The inspiration behind the 2025 Met Gala theme
-- Professional makeup artist insights
-- Celebrity beauty breakdowns
-- Red carpet application techniques
-- Luxury beauty recommendations
-- Professional makeup tips
-- Products and routines that help achieve long-lasting glamorous makeup
-
-Whether you're preparing for a wedding, gala, reception, editorial shoot, or another special event, these techniques can help elevate your beauty routine.
+The Met Gala is renowned for setting global beauty and fashion trends, inspiring makeup artists and beauty enthusiasts alike. This guide explores the standout beauty looks from the 2025 Met Gala, the inspiration behind them, and practical techniques to recreate these glamorous styles. You'll also find expert makeup tips, recommended luxury products, and professional application advice to help you achieve a flawless, red-carpet-ready finish for weddings, parties, photoshoots, or any special occasion.
 
 ---
 
 ## Table of Contents
 
-<div style="background:#FDF6F8;padding:20px;border-radius:12px;border-left:4px solid #C97C8B;">
-
-- [Why Met Gala Beauty Matters](#why-met-gala-beauty-matters)
-- [Understanding the 2025 Theme](#understanding-the-2025-theme)
-- [Expert Insights](#expert-insights)
-- [Celebrity Beauty Breakdown](#celebrity-beauty-breakdown)
-- [Application Masterclass](#application-masterclass)
-- [Professional Tips](#professional-tips)
-- [Key Takeaways](#key-takeaways)
-- [Frequently Asked Questions](#frequently-asked-questions)
-- [Final Thoughts](#final-thoughts)
+- Why Met Gala Beauty Matters
+- Understanding the 2025 Theme
+- Expert Insights
+- Celebrity Beauty Breakdown
+- Application Masterclass
+- Professional Tips
+- Key Takeaways
+- Frequently Asked Questions
+- Final Thoughts
 
 </div>
 
@@ -69,8 +54,8 @@ Before recreating any celebrity makeup look, building a healthy skincare routine
 ## Understanding the 2025 Theme
 
 <div align="center">
-
-*The 2025 Met Gala celebrated culture, craftsmanship, heritage, and individuality through beauty and fashion.*
+*The 2025 Met Gala celebrated culture, craftsmanship, heritage, and individuality through 
+beauty and fashion.*
 
 </div>
 
@@ -147,7 +132,7 @@ Each celebrity interpreted the 2025 Met Gala theme differently while maintaining
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/4/images/mlog4_lupita.jpg" alt="Lupita Nyong'o's Met Gala Look" style="max-width:100%;height:auto;border-radius:12px;">
+<img src="https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/4/images/mlog4_img2.jpg" alt="Lupita Nyong'o's Met Gala Look" style="max-width:100%;height:auto;border-radius:12px;">
 
 *Elegant bronze makeup paired with sculptural natural hair.*
 
@@ -175,7 +160,7 @@ Instead of relying on dramatic makeup, the look emphasized naturally glowing ski
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/4/images/mlog4_janelle.jpeg" alt="Janelle Monáe's Met Gala Look" style="max-width:100%;height:auto;border-radius:12px;">
+<img src="https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/4/images/mlog4_img4.jpg" alt="Janelle Monáe's Met Gala Look" style="max-width:100%;height:auto;border-radius:12px;">
 
 *Architectural braids paired with polished, modern makeup.*
 
@@ -202,7 +187,7 @@ The hairstyle became the artistic focal point while the makeup remained polished
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/4/images/mlog4_zendayaa.jpg" alt="Zendaya's Met Gala Look" style="max-width:100%;height:auto;border-radius:12px;">
+<img src="https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/4/images/mlog4_img5.jpg" alt="Zendaya's Met Gala Look" style="max-width:100%;height:auto;border-radius:12px;">
 
 *Classic glamour inspired by legendary beauty icons.*
 
@@ -230,7 +215,7 @@ Zendaya demonstrated that timeless beauty never goes out of style. Every element
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/4/images/mlog4_ayo.jpg" alt="Ayo Edebiri's Met Gala Look" style="max-width:100%;height:auto;border-radius:12px;">
+<img src="https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/4/images/mlog4_img6.jpg" alt="Ayo Edebiri's Met Gala Look" style="max-width:100%;height:auto;border-radius:12px;">
 
 *Fresh skin paired with subtle vintage inspiration.*
 
@@ -258,7 +243,7 @@ The look proved that understated makeup can be just as impactful as bold editori
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/4/images/mlog4_coleman.avif" alt="Colman Domingo's Met Gala Look" style="max-width:100%;height:auto;border-radius:12px;">
+<img src="https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/4/images/mlog4_img7.avif" alt="Colman Domingo's Met Gala Look" style="max-width:100%;height:auto;border-radius:12px;">
 
 *Elegant monochromatic styling complemented by impeccable grooming.*
 
@@ -440,7 +425,7 @@ Absolutely. Healthy, hydrated skin allows makeup to blend more smoothly and last
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/4/images/mlog4_final.jpg" alt="Celebrity Inspired Met Gala Beauty" style="max-width:100%;height:auto;border-radius:12px;">
+<img src="https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/4/images/mlog4_img8.jpg" alt="Celebrity Inspired Met Gala Beauty" style="max-width:100%;height:auto;border-radius:12px;">
 
 *Exceptional beauty is created through preparation, confidence, and attention to detail.*
 
