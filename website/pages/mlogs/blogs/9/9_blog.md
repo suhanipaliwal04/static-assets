@@ -96,7 +96,7 @@ The routine below is divided minute by minute for maximum efficiency.
 
 <div align="center">
 
-![Fresh Natural Base](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/9/images/9_skin_base.jpg)
+![Fresh Natural Base](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/9/images/mlog9_img1.jpg)
 
 *Creating a lightweight natural base.*
 
@@ -130,7 +130,7 @@ Warm concealer using your ring finger before blending for a seamless finish.
 
 <div align="center">
 
-![Cheeks and Lips](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/9/images/9_cheeks_lips.jpg)
+![Cheeks and Lips](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/9/images/mlog9_img2.jpg)
 
 *Using one product for both cheeks and lips creates harmony.*
 
@@ -155,7 +155,7 @@ This technique reduces the number of products while making the overall makeup lo
 
 <div align="center">
 
-![Brows](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/9/images/9_brow_Definition.jpg)
+![Brows](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/9/images/mlog9_img3.jpg)
 
 </div>
 
@@ -181,7 +181,7 @@ Natural-looking brows instantly make the entire face appear more awake.
 
 <div align="center">
 
-![Eyes](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/9/images/9_eye_enhancement.jpg)
+![Eyes](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/9/images/mlog9_img4.jpg)
 
 </div>
 
@@ -207,7 +207,7 @@ Focusing only on the upper lashes keeps the routine fast while opening the eyes 
 
 <div align="center">
 
-![Glow](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/9/images/9_glow_and_set.jpg)
+![Glow](https://raw.githubusercontent.com/melmua/static-assets/main/website/pages/mlogs/blogs/9/images/mlog9_img5.jpg)
 
 </div>
 
